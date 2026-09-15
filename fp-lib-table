@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "NFCC")(type "KiCad")(uri "${KIPRJMOD}/NFCC.pretty")(options "")(descr "Project-local verified pad mappings; provisional package choices listed in checks/footprint-assignments.csv")))

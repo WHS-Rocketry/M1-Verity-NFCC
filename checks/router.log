@@ -1,0 +1,98 @@
+2026-09-15 07:49:39.109 INFO   Freerouting v2.4.1 (build-date: 2026-09-03)
+WARNING: Final field userProfileSettings in class app.freerouting.settings.GlobalSettings has been mutated reflectively by class com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$2 in unnamed module @149494d8 (file:/private/tmp/freerouting-2.4.1.jar)
+WARNING: Use --enable-final-field-mutation=ALL-UNNAMED to avoid a warning
+WARNING: Mutating final fields will be blocked in a future release unless final field mutation is enabled
+2026-09-15 07:49:40.520 INFO   [35627B\F68E12] Loading board file 'placement.dsn'...
+2026-09-15 07:49:40.578 INFO   Layer 'In1.Cu' has been automatically configured as a dedicated power plane because it contains a large conduction area covering >50% of the board.
+2026-09-15 07:49:40.578 INFO   Layer 'In2.Cu' has been automatically configured as a dedicated power plane because it contains a large conduction area covering >50% of the board.
+2026-09-15 07:49:40.584 INFO   [35627B\F68E12] Job '35627B\F68E12' started at 2026-09-15T12:49:40.584712Z.
+2026-09-15 07:49:40.644 INFO   [35627B\F68E12] Auto-routing stage started on board 'a4a859175f29745c294796a584fac52c' for 269 unrouted items.
+2026-09-15 07:49:47.378 INFO   [35627B\F68E12] Auto-routing pass #1 on board 'a4a859175f29745c294796a584fac52c' was completed in 6.68 seconds with score 732.19 (77 unrouted and 6 violations), using 5.92 CPU seconds and the job allocated 81.09 GB of memory so far.
+2026-09-15 07:49:52.453 INFO   [35627B\F68E12] Auto-routing pass #2 on board 'c551fd7e169c5fe870ac0843c17e2b83' was completed in 5.01 seconds with score 776.71 (64 unrouted and 6 violations), using 10.85 CPU seconds and the job allocated 171.27 GB of memory so far.
+2026-09-15 07:49:56.999 INFO   [35627B\F68E12] Auto-routing pass #3 on board '024bf96a38e037ad094860236b87adc1' was completed in 4.48 seconds with score 804.10 (56 unrouted and 6 violations), using 15.76 CPU seconds and the job allocated 263.61 GB of memory so far.
+2026-09-15 07:50:00.252 INFO   [35627B\F68E12] Auto-routing pass #4 on board 'f75b32fdeb73a50008929a69c8336365' was completed in 3.18 seconds with score 810.95 (54 unrouted and 6 violations), using 18.73 CPU seconds and the job allocated 318.53 GB of memory so far.
+2026-09-15 07:50:02.381 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:07.531 INFO   [35627B\F68E12] Auto-routing pass #5 on board '121b69c8514e4eb0db73442d9dc2e02b' was completed in 7.21 seconds with score 821.23 (51 unrouted and 6 violations), using 22.29 CPU seconds and the job allocated 378.66 GB of memory so far.
+2026-09-15 07:50:11.768 INFO   [35627B\F68E12] Auto-routing pass #6 on board 'd01594f5c36b0e1d8ecefbfcfe3ae933' was completed in 4.15 seconds with score 824.65 (50 unrouted and 6 violations), using 26.17 CPU seconds and the job allocated 451.83 GB of memory so far.
+2026-09-15 07:50:14.001 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:15.101 INFO   [35627B\F68E12] Auto-routing pass #7 on board '2365b666476ff880daac815d0b331603' was completed in 3.26 seconds with score 828.07 (49 unrouted and 6 violations), using 29.88 CPU seconds and the job allocated 509.29 GB of memory so far.
+2026-09-15 07:50:17.803 INFO   [35627B\F68E12] Auto-routing pass #8 on board '37aa9edc5e085f061eab503fd733b4c1' was completed in 2.62 seconds with score 824.65 (50 unrouted and 6 violations), using 31.84 CPU seconds and the job allocated 542.91 GB of memory so far.
+2026-09-15 07:50:19.241 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:20.197 INFO   [35627B\F68E12] Auto-routing pass #9 on board '37aa9edc5e085f061eab503fd733b4c1' was completed in 2.36 seconds with score 831.50 (48 unrouted and 6 violations), using 34.76 CPU seconds and the job allocated 599.58 GB of memory so far.
+2026-09-15 07:50:22.344 INFO   [35627B\F68E12] Auto-routing pass #10 on board 'b0a4b3b126290ba587cccf2c0e3daf78' was completed in 2.08 seconds with score 828.07 (49 unrouted and 6 violations), using 36.73 CPU seconds and the job allocated 640.45 GB of memory so far.
+2026-09-15 07:50:23.583 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:24.562 INFO   [35627B\F68E12] Auto-routing pass #11 on board '492a86393cf03488beff75a219ecd3bc' was completed in 2.15 seconds with score 831.50 (48 unrouted and 6 violations), using 38.71 CPU seconds and the job allocated 682.11 GB of memory so far.
+2026-09-15 07:50:29.411 INFO   [35627B\F68E12] Auto-routing pass #12 on board 'b0a4b3b126290ba587cccf2c0e3daf78' was completed in 0.00 seconds with score 828.07 (49 unrouted and 6 violations), using 43.62 CPU seconds and the job allocated 816.70 GB of memory so far.
+2026-09-15 07:50:30.653 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:31.563 INFO   [35627B\F68E12] Auto-routing pass #13 on board 'b0a4b3b126290ba587cccf2c0e3daf78' was completed in 2.11 seconds with score 831.50 (48 unrouted and 6 violations), using 45.58 CPU seconds and the job allocated 859.98 GB of memory so far.
+2026-09-15 07:50:33.697 INFO   [35627B\F68E12] Auto-routing pass #14 on board '577197359af05d2ad33aaf6a885cc40b' was completed in 2.06 seconds with score 828.07 (49 unrouted and 6 violations), using 47.55 CPU seconds and the job allocated 900.89 GB of memory so far.
+2026-09-15 07:50:35.626 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:38.521 INFO   [35627B\F68E12] Auto-routing pass #15 on board '6e649783e25f7fac9d3cf8fe6ef5feb5' was completed in 4.76 seconds with score 831.50 (48 unrouted and 6 violations), using 52.47 CPU seconds and the job allocated 1037.92 GB of memory so far.
+2026-09-15 07:50:42.615 INFO   [35627B\F68E12] Auto-routing pass #16 on board 'b0a4b3b126290ba587cccf2c0e3daf78' was completed in 0.00 seconds with score 828.07 (49 unrouted and 6 violations), using 56.40 CPU seconds and the job allocated 1149.21 GB of memory so far.
+2026-09-15 07:50:43.857 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:44.762 INFO   [35627B\F68E12] Auto-routing pass #17 on board 'b0a4b3b126290ba587cccf2c0e3daf78' was completed in 2.11 seconds with score 831.50 (48 unrouted and 6 violations), using 58.37 CPU seconds and the job allocated 1191.15 GB of memory so far.
+2026-09-15 07:50:47.063 INFO   [35627B\F68E12] Auto-routing pass #18 on board '577197359af05d2ad33aaf6a885cc40b' was completed in 2.26 seconds with score 828.07 (49 unrouted and 6 violations), using 60.34 CPU seconds and the job allocated 1229.95 GB of memory so far.
+2026-09-15 07:50:49.145 WARN   UndoableObjects.save_for_undo: object node not found
+2026-09-15 07:50:52.036 INFO   [35627B\F68E12] Auto-routing pass #19 on board '6e649783e25f7fac9d3cf8fe6ef5feb5' was completed in 4.94 seconds with score 831.50 (48 unrouted and 6 violations), using 65.16 CPU seconds and the job allocated 1354.12 GB of memory so far.
+2026-09-15 07:50:52.048 INFO   [35627B\F68E12] The router's best score (831.50) has not improved by more than 0.5 points since pass #9. Stopping the auto-router after 19 passes (48 items still unconnected).
+The following connections could not be routed -- please review your design (e.g. check pad clearances, trace width rules, and available routing space):
+  Net 'GND' (28 unrouted connections):
+    - U12-4  ->  U12-2
+    - U7-3  ->  U7-5
+    - U7-8  ->  U7-5
+    - NFCC2-26  ->  C47-2
+    - via  ->  C13-2
+    - C52-2  ->  C53-2
+    - R39-2  ->  R40-2
+    - C44-2  ->  C52-2
+    - C51-2  ->  HSE3-4
+    - C58-2  ->  U1-3
+    - R54-1  ->  PWM_POW2-16
+    - C45-2  ->  NFCC2-19
+    - U9-14  ->  PWM_POW2-8
+    - U3-7  ->  C23-2
+    - C45-2  ->  HSE3-2
+    - U9-24  ->  C21-2
+    - R2-2  ->  TELEM2-MP@1
+    - C60-2  ->  U2-1
+    - U9-5  ->  U9-14
+    - via  ->  C19-2
+    - U11-2  ->  U7-9
+    - R39-2  ->  C20-2
+    - C18-2  ->  U8-9
+    - C49-2  ->  SW5-2
+    - U2-1  ->  C59-2
+    - C42-2  ->  C18-2
+    - SW6-3  ->  SW5-2@1
+    - NFCC2-74  ->  C13-2
+  Net 'VDDA' (19 unrouted connections):
+    - U12-14  ->  U12-15
+    - U12-10  ->  U12-11
+    - U12-15  ->  via
+    - U12-11  ->  via
+    - via  ->  C12-1
+    - via  ->  R45-1
+    - C13-1  ->  C12-1
+    - C16-1  ->  U10-9
+    - NFCC2-27  ->  C47-1
+    - U7-1  ->  C14-1
+    - U9-1  ->  C21-1
+    - C19-1  ->  via
+    - R42-1  ->  U10-10
+    - C14-1  ->  C21-1
+    - R5-1  ->  D4-2
+    - C53-1  ->  R4-1
+    - R44-1  ->  NFCC2-75
+    - conductionarea  ->  R48-1
+    - R42-1  ->  SW6-1
+  Net 'Net-(U2-SW)' (1 unrouted connection):
+    - C61-2  ->  U2-2
+2026-09-15 07:50:52.114 INFO   [35627B\F68E12] Auto-routing stage completed: started with 269 unrouted nets, completed in 71.47 seconds, final score: 831.50 (48 unrouted and 6 violations), using 66.15 total CPU seconds, 1384.13 GB total allocated, and 1328.6 MB peak heap usage.
+2026-09-15 07:50:52.147 INFO   [35627B\F68E12] Optimization stage started on board '920e7b03c339ced7b73b9905085a8c27' with score 828.07 (49 unrouted and 6 violations).
+2026-09-15 07:50:55.696 INFO   [35627B\F68E12] Stopping optimization pass #1 early after 50 consecutive items could not be improved.
+2026-09-15 07:50:55.743 INFO   [35627B\F68E12] Optimizer pass #1 on board 'c08af7d853f08ed2a48089eff0ff1d14' was completed in 3.47 seconds with the score of 828.07 (49 unrouted and 6 violations).
+2026-09-15 07:50:55.780 INFO   [35627B\F68E12] Stopping optimizer because the improvement in this pass (0.0000%) is below the threshold (1.00%).
+2026-09-15 07:50:55.826 INFO   [35627B\F68E12] Optimization stage completed: started with score 828.07 (49 unrouted and 6 violations), completed in 3.64 seconds, final score: 828.07 (49 unrouted and 6 violations), using 3.52 total CPU seconds, 74.25 GB total allocated, and 960.0 MB peak heap usage.
+2026-09-15 07:50:55.835 INFO   [35627B\F68E12] Job '35627B\F68E12' finished with state: COMPLETED (elapsed: 1 minute 15.25 seconds, finished at UTC: 2026-09-15T12:50:55.834313Z).
+2026-09-15 07:50:56.137 INFO   Saving output file '/Users/evanliu/Documents/ChatGPT/Mark1Verity/NFCC-PCB/revision-c/checks/routed.ses' (SES)...
+2026-09-15 07:50:56.141 INFO   Successfully saved output file '/Users/evanliu/Documents/ChatGPT/Mark1Verity/NFCC-PCB/revision-c/checks/routed.ses' (75489 bytes).

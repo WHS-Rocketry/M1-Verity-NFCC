@@ -7439,17 +7439,6 @@
 			(uuid "c52f8b83-4e64-4ca5-89c4-baee400d97fa")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/NFCC.3dshapes/BMP581.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "NFCC:R_0603_1608Metric__R44"
 		(layer "F.Cu")
@@ -10609,17 +10598,6 @@
 			(uuid "87bf19c4-0a63-4eb2-ba2c-b6c41fdb7718")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/NFCC.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "NFCC:L_0805_2012Metric__FB1"
 		(layer "F.Cu")
@@ -11622,17 +11600,6 @@
 			(uuid "122604ee-aa79-46b8-8790-9cf0bab1e58c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/NFCC.3dshapes/24CW1280T-I_OT.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "NFCC:LED_0603_1608Metric__LED15"
 		(layer "F.Cu")
@@ -17118,17 +17085,6 @@
 			(uuid "fdcd3c35-e972-4673-8326-c233f16e7550")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/NFCC.3dshapes/LGA-12_2x2mm_P0.5mm.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "NFCC:R_0603_1608Metric__R36"
 		(layer "F.Cu")
@@ -19357,17 +19313,6 @@
 			(uuid "16dc5dee-5b53-4f6f-b8f9-b613ea765cd2")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/NFCC.3dshapes/W25N01GVZEIG.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
 	)
 	(footprint "NFCC:C_0603_1608Metric__C17"
 		(layer "F.Cu")
@@ -23896,13 +23841,13 @@
 			)
 		)
 	)
-	(gr_text "NFCC M1:Verity"
-		(at 75.5 66.5 0)
+	(gr_text "NFCC REV C"
+		(at 106 76 0)
 		(layer "F.SilkS")
 		(uuid "5fd31ef2-15e9-4d0c-b358-f3141ff1d93a")
 		(effects
 			(font
-				(size 1.1 1.5)
+				(size 1.1 1.1)
 				(thickness 0.12)
 			)
 		)

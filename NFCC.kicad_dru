@@ -1,0 +1,7 @@
+(version 1)
+(rule "U10 fine-pitch package clearance"
+  (condition "A.FootprintReference == 'U10' && B.FootprintReference == 'U10'")
+  (constraint clearance (min 0.127mm)))
+(rule "U3 exposed-pad clearance"
+  (condition "A.FootprintReference == 'U3' && B.FootprintReference == 'U3'")
+  (constraint clearance (min 0.15mm)))

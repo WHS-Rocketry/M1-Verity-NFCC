@@ -1,0 +1,222 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-15T07:51:53",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "NFCC.kicad_pcb",
+    "unconnected_items": [
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Pad 4 [GND] of U12 on F.Cu",
+                    "pos": {
+                        "x": 118.0,
+                        "y": 98.7375
+                    },
+                    "uuid": "332902bc-0013-49e0-8298-7b0e79bb93e2"
+                },
+                {
+                    "description": "Zone [GND] on F.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "f8f2e43f-9af3-416e-b974-5b5179b7c66d"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        }
+    ],
+    "violations": [
+        {
+            "description": "Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)",
+            "items": [
+                {
+                    "description": "Zone [GND] on B.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "1586a43d-5ee5-45ac-8f35-529e32547845"
+                },
+                {
+                    "description": "PTH pad 9 [GND] of SWD2",
+                    "pos": {
+                        "x": 95.08,
+                        "y": 64.0
+                    },
+                    "uuid": "4aaaa938-c1ca-48e7-9cf5-64552b5d9e49"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)",
+            "items": [
+                {
+                    "description": "Zone [GND] on B.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "1586a43d-5ee5-45ac-8f35-529e32547845"
+                },
+                {
+                    "description": "PTH pad 8 [GND] of PWM_POW2",
+                    "pos": {
+                        "x": 127.62,
+                        "y": 121.76
+                    },
+                    "uuid": "51d19a13-ceea-4276-b753-090cb74e416a"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)",
+            "items": [
+                {
+                    "description": "Zone [GND] on B.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "1586a43d-5ee5-45ac-8f35-529e32547845"
+                },
+                {
+                    "description": "PTH pad 10 [GND] of PWM_POW2",
+                    "pos": {
+                        "x": 130.16,
+                        "y": 121.76
+                    },
+                    "uuid": "9b613c4e-be20-4618-a39d-bcd0ff7780f6"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)",
+            "items": [
+                {
+                    "description": "Zone [GND] on B.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "1586a43d-5ee5-45ac-8f35-529e32547845"
+                },
+                {
+                    "description": "PTH pad 12 [GND] of PWM_POW2",
+                    "pos": {
+                        "x": 132.7,
+                        "y": 121.76
+                    },
+                    "uuid": "56177b3f-ff23-437b-9134-a7bfed0033bb"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)",
+            "items": [
+                {
+                    "description": "Zone [GND] on F.Cu, priority 0",
+                    "pos": {
+                        "x": 60.5,
+                        "y": 60.5
+                    },
+                    "uuid": "f8f2e43f-9af3-416e-b974-5b5179b7c66d"
+                },
+                {
+                    "description": "Pad 6 [GND] of U10 on F.Cu",
+                    "pos": {
+                        "x": 135.25,
+                        "y": 75.8382
+                    },
+                    "uuid": "9f923bcd-7fff-4dc1-97a0-1a97687dc7be"
+                }
+            ],
+            "severity": "error",
+            "type": "starved_thermal"
+        },
+        {
+            "description": "Drilled hole too close to other hole (board setup constraints min 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Via [VDDA] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 119.176,
+                        "y": 102.145
+                    },
+                    "uuid": "8212ff45-d5a4-4ad4-a66c-8836f75fab89"
+                },
+                {
+                    "description": "Via [VDDA] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 118.676,
+                        "y": 102.145
+                    },
+                    "uuid": "9d31d16c-6ba8-4c49-a38a-45395ecc9a7b"
+                }
+            ],
+            "severity": "warning",
+            "type": "hole_to_hole"
+        },
+        {
+            "description": "Silkscreen clipped by solder mask",
+            "items": [
+                {
+                    "description": "PCB text 'PWM 0-7' on F.Silkscreen",
+                    "pos": {
+                        "x": 138.0,
+                        "y": 119.0
+                    },
+                    "uuid": "4a453ae4-09fb-4d2f-ab1a-0a9442f39e42"
+                },
+                {
+                    "description": "Pad 2 [Net-(D3-K)] of R54 on F.Cu",
+                    "pos": {
+                        "x": 141.825,
+                        "y": 118.0
+                    },
+                    "uuid": "243279d8-3592-43c4-b35e-7987f9bc72d2"
+                }
+            ],
+            "severity": "warning",
+            "type": "silk_over_copper"
+        }
+    ]
+}

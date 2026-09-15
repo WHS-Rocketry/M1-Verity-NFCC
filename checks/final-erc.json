@@ -1,0 +1,432 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-15T07:54:45",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/e2c55b07-353f-4045-9773-a9fc4ed0d72a",
+            "violations": [
+                {
+                    "description": "Symbol 'BMP581' doesn't match copy in library '2026-09-11_15-15-31'",
+                    "items": [
+                        {
+                            "description": "Symbol U7 [BMP581]",
+                            "pos": {
+                                "x": 0.381,
+                                "y": 2.5146
+                            },
+                            "uuid": "7a1dceb0-cf7c-4ac8-807b-631f4539e0ea"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Input are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U7 Pin 2 [SCK, Unspecified, Line]",
+                            "pos": {
+                                "x": 0.381,
+                                "y": 2.54
+                            },
+                            "uuid": "1130447a-7ffc-4b0c-b125-14d4f20ad4d8"
+                        },
+                        {
+                            "description": "Symbol U12 Pin 8 [SCK/SCL, Input, Line]",
+                            "pos": {
+                                "x": 0.9144,
+                                "y": 2.0066
+                            },
+                            "uuid": "6a469a24-fcad-4fb6-8983-fc8c8ecfd4eb"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Pins of type Unspecified and Bidirectional are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U7 Pin 4 [SDI, Unspecified, Line]",
+                            "pos": {
+                                "x": 0.381,
+                                "y": 2.5908
+                            },
+                            "uuid": "7845d72d-a44f-4e2e-90cf-9f66bd9eb0be"
+                        },
+                        {
+                            "description": "Symbol U12 Pin 9 [SDI/SDA, Bidirectional, Line]",
+                            "pos": {
+                                "x": 0.9144,
+                                "y": 2.032
+                            },
+                            "uuid": "b98d591d-3ad8-45e2-855d-08ce0480a708"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Pins of type Unspecified and Power input are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U7 Pin 5 [SDO, Unspecified, Line]",
+                            "pos": {
+                                "x": 0.381,
+                                "y": 2.6162
+                            },
+                            "uuid": "51120ec2-fa79-4d72-b62c-da75a7303c77"
+                        },
+                        {
+                            "description": "Symbol #PWR074 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 0.381,
+                                "y": 2.6162
+                            },
+                            "uuid": "06d8d2d4-ccb2-4683-89ab-9fd5949c5260"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Pins of type Unspecified and Power input are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U7 Pin 6 [CSB, Unspecified, Line]",
+                            "pos": {
+                                "x": 0.7874,
+                                "y": 2.6162
+                            },
+                            "uuid": "e7074102-c810-490f-bf1b-1904b67ab2c5"
+                        },
+                        {
+                            "description": "Symbol #PWR082 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 0.7874,
+                                "y": 2.6162
+                            },
+                            "uuid": "4db5450b-56a9-43bb-867f-9bf2d245d366"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Both VDDA and +3.3V are attached to the same items; VDDA will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'VDDA'",
+                            "pos": {
+                                "x": 0.6858,
+                                "y": 0.254
+                            },
+                            "uuid": "2837a349-415e-48d1-b0bb-631dd8d06437"
+                        },
+                        {
+                            "description": "Symbol #PWR0115 Pin 1 [Power input, Line]",
+                            "pos": {
+                                "x": 0.9144,
+                                "y": 2.1336
+                            },
+                            "uuid": "82348e5b-11ac-49d0-a440-09eec82f4aa5"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Symbol 'BMI088' doesn't match copy in library 'Sensor_Motion'",
+                    "items": [
+                        {
+                            "description": "Symbol U12 [BMI088]",
+                            "pos": {
+                                "x": 1.0414,
+                                "y": 2.032
+                            },
+                            "uuid": "d7eca563-6a0a-4465-9262-9600bf28d1c0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Bidirectional are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U11 Pin 3 [SDA, Unspecified, Line]",
+                            "pos": {
+                                "x": 1.2065,
+                                "y": 1.3843
+                            },
+                            "uuid": "3209549c-44cd-423b-9cee-8d94429a37e8"
+                        },
+                        {
+                            "description": "Symbol NFCC2 Pin 47 [PB11, Bidirectional, Line]",
+                            "pos": {
+                                "x": 0.8382,
+                                "y": 1.0795
+                            },
+                            "uuid": "1c3b9f4e-f713-4a96-8ba1-b7dd38f4884a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Symbol 'IIS2MDCTR' doesn't match copy in library '2026-09-11_15-18-11'",
+                    "items": [
+                        {
+                            "description": "Symbol U10 [IIS2MDCTR]",
+                            "pos": {
+                                "x": 1.3843,
+                                "y": 2.4892
+                            },
+                            "uuid": "3074e167-ba54-49b3-ba70-5efac54f4d13"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Passive are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U10 Pin 5 [C1, Unspecified, Line]",
+                            "pos": {
+                                "x": 1.3843,
+                                "y": 2.5908
+                            },
+                            "uuid": "6e418238-5bba-4b80-9676-e3162c5ab739"
+                        },
+                        {
+                            "description": "Symbol C17 Pin 1 [Passive, Line]",
+                            "pos": {
+                                "x": 1.2954,
+                                "y": 2.6162
+                            },
+                            "uuid": "8fa1fb87-37d0-4396-ac88-2f1a3a3988a4"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Symbol '24CW1280T-I_OT' doesn't match copy in library '2026-09-11_14-30-58'",
+                    "items": [
+                        {
+                            "description": "Symbol U11 [24CW1280T-I_OT]",
+                            "pos": {
+                                "x": 1.6129,
+                                "y": 1.4351
+                            },
+                            "uuid": "7f6758cc-44bf-4077-9878-0e2408220ac6"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Bidirectional are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U11 Pin 1 [SCL, Unspecified, Line]",
+                            "pos": {
+                                "x": 1.6129,
+                                "y": 1.4351
+                            },
+                            "uuid": "301e8a44-7321-471a-b261-eb9d2645b762"
+                        },
+                        {
+                            "description": "Symbol NFCC2 Pin 46 [PB10, Bidirectional, Line]",
+                            "pos": {
+                                "x": 0.8382,
+                                "y": 1.0541
+                            },
+                            "uuid": "0602e8c0-e498-4da0-b63f-102bc7754a0b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Symbol 'W25N01GVZEIG' doesn't match copy in library '2026-09-11_14-39-13'",
+                    "items": [
+                        {
+                            "description": "Symbol U8 [W25N01GVZEIG]",
+                            "pos": {
+                                "x": 1.6383,
+                                "y": 1.9685
+                            },
+                            "uuid": "e96ef80d-0337-4b12-9809-135b3b64195a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'Conn_01x02' doesn't match copy in library 'Connector_Generic'",
+                    "items": [
+                        {
+                            "description": "Symbol J3 [Conn_01x02]",
+                            "pos": {
+                                "x": 2.2606,
+                                "y": 1.4605
+                            },
+                            "uuid": "2dd097e0-b3b7-41a8-9179-cf353c27a5ca"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'USB_B_Micro' doesn't match copy in library 'Connector'",
+                    "items": [
+                        {
+                            "description": "Symbol J1 [USB_B_Micro]",
+                            "pos": {
+                                "x": 2.6289,
+                                "y": 0.8382
+                            },
+                            "uuid": "4459c880-7bcf-4ed6-a2bb-f06fe7c0082a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Power input are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U3 Pin 5 [EN, Unspecified, Line]",
+                            "pos": {
+                                "x": 2.7305,
+                                "y": 2.2606
+                            },
+                            "uuid": "8067d248-a665-41a2-817b-83d8d66aa1a5"
+                        },
+                        {
+                            "description": "Symbol U3 Pin 6 [IN, Power input, Line]",
+                            "pos": {
+                                "x": 2.7305,
+                                "y": 2.2352
+                            },
+                            "uuid": "5e6ee288-5093-428e-88d4-264cb3912206"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Symbol 'Crystal_GND24' doesn't match copy in library 'Device'",
+                    "items": [
+                        {
+                            "description": "Symbol HSE3 [Crystal_GND24]",
+                            "pos": {
+                                "x": 2.794,
+                                "y": 0.3429
+                            },
+                            "uuid": "23dca5cc-0204-4e47-a53e-bb1e9ae319cc"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Symbol 'USB_B_Micro' doesn't match copy in library 'Connector'",
+                    "items": [
+                        {
+                            "description": "Symbol J2 [USB_B_Micro]",
+                            "pos": {
+                                "x": 3.0861,
+                                "y": 1.397
+                            },
+                            "uuid": "ace70735-72e8-4c5b-bc48-d8c533445b8f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Pins of type Unspecified and Power output are connected",
+                    "items": [
+                        {
+                            "description": "Symbol U3 Pin 2 [ADJ/SENSE, Unspecified, Line]",
+                            "pos": {
+                                "x": 3.2385,
+                                "y": 2.2606
+                            },
+                            "uuid": "726ff474-509e-4af2-9b36-dfa883b52e3e"
+                        },
+                        {
+                            "description": "Symbol U3 Pin 1 [OUT, Power output, Line]",
+                            "pos": {
+                                "x": 3.2385,
+                                "y": 2.2352
+                            },
+                            "uuid": "1fa1decd-3e09-4169-86db-e330eef7dc04"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "pin_to_pin"
+                },
+                {
+                    "description": "Symbol 'LD39200PU33R' doesn't match copy in library '2026-09-15_06-05-24'",
+                    "items": [
+                        {
+                            "description": "Symbol U3 [LD39200PU33R]",
+                            "pos": {
+                                "x": 3.2385,
+                                "y": 2.286
+                            },
+                            "uuid": "cc98db03-f4f8-44da-be0b-97645faef8c4"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "lib_symbol_mismatch"
+                },
+                {
+                    "description": "Unconnected \"no connection\" flag",
+                    "items": [
+                        {
+                            "description": "No Connect",
+                            "pos": {
+                                "x": 3.5433,
+                                "y": 0.1524
+                            },
+                            "uuid": "e916c2c5-2075-4928-b2d8-d30bb42b6b65"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "no_connect_dangling"
+                }
+            ]
+        }
+    ],
+    "source": "NFCC.kicad_sch"
+}

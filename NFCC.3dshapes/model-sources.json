@@ -1,0 +1,127 @@
+[
+  {
+    "reference": "U3",
+    "part": "LD39200PU33R",
+    "file": "DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.step",
+    "source_kind": "KiCad generic DFN-6 package",
+    "source_url": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm.step",
+    "download_date": "2026-09-15",
+    "sha256": "274e64dbc71efc056087cf7ec8e0095106f32c5829dde7916d88f30c445df5aa",
+    "offset_mm": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "rotation_degrees": [
+      0,
+      0,
+      0
+    ],
+    "validation_note": "3 \u00d7 3 mm, 0.95 mm pitch; 0.87 mm model height. Generic body and exposed-pad representation; not manufacturer-certified CAD."
+  },
+  {
+    "reference": "U7",
+    "part": "BMP581",
+    "file": "BMP581.step",
+    "source_kind": "EasyEDA exact-part listing C5362283",
+    "source_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/13dde21fc63a4ff9b98e25478c074390",
+    "download_date": "2026-09-15",
+    "sha256": "864bddaa79cc974d6355c5785213ac6a849141e42ff8b92f6c523d98c2b5e8b8",
+    "offset_mm": [
+      0,
+      0,
+      0.001
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "rotation_degrees": [
+      0,
+      0,
+      0
+    ],
+    "validation_note": "2 \u00d7 2 mm metal-lid body and matching ten-land layout. Model height 0.801 mm; Bosch specifies 0.75 mm nominal. Catalog visualization, not exact mechanical signoff."
+  },
+  {
+    "reference": "U8",
+    "part": "W25N01GVZEIG",
+    "file": "W25N01GVZEIG.step",
+    "source_kind": "EasyEDA exact-part listing C907645",
+    "source_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/aec8523d94b0445a92ea7d52b60254c2",
+    "download_date": "2026-09-15",
+    "sha256": "8b0bd83c62f285162630ddd68e0f6c7b245b53cdab42511e95e599c829b2d71b",
+    "offset_mm": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "rotation_degrees": [
+      0,
+      0,
+      0
+    ],
+    "validation_note": "8 \u00d7 6 mm WSON body, 1.27 mm pitch; pin 1 at upper left. Overall model extents 8.02 \u00d7 6 \u00d7 0.811 mm, including terminals/marking."
+  },
+  {
+    "reference": "U10",
+    "part": "IIS2MDCTR",
+    "file": "LGA-12_2x2mm_P0.5mm.step",
+    "source_kind": "KiCad generic LGA-12 package, height adjusted",
+    "source_url": "https://gitlab.com/kicad/libraries/kicad-packages3D/-/raw/master/Package_LGA.3dshapes/LGA-12_2x2mm_P0.5mm.step",
+    "download_date": "2026-09-15",
+    "sha256": "5e6c16287491528f89c09590e0d5dace14debf478226f74b45504eb906119145",
+    "offset_mm": [
+      0,
+      0,
+      0
+    ],
+    "scale": [
+      1,
+      1,
+      0.6829268293
+    ],
+    "rotation_degrees": [
+      0,
+      0,
+      0
+    ],
+    "validation_note": "2 \u00d7 2 mm, 0.5 mm pitch, four lands on left/right and two top/bottom. Z scale 0.6829268293 adjusts 1.025 mm source body to 0.7 mm overall. This also scales land thickness; approximate visual envelope only."
+  },
+  {
+    "reference": "U11",
+    "part": "24CW1280T-I/OT",
+    "file": "24CW1280T-I_OT.step",
+    "source_kind": "EasyEDA exact-part listing C2061808",
+    "source_url": "https://modules.easyeda.com/qAxj6KHrDKw4blvCG8QJPs7Y/de83a77687e64788a98e316d865b3813",
+    "download_date": "2026-09-15",
+    "sha256": "1ae1ff6a4ddc1ad2507887bbc7be18463de8bca76090993d37f3c6a269a85516",
+    "offset_mm": [
+      0,
+      0,
+      0.75
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "rotation_degrees": [
+      0,
+      0,
+      90
+    ],
+    "validation_note": "SOT-23-5, 0.95 mm pitch. Rotated 90 degrees to put three leads on left and pin 1 upper left; lifted 0.75 mm to put terminal undersides on board. Model height 1.151 mm."
+  }
+]

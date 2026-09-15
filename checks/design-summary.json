@@ -1,0 +1,10 @@
+{
+  "board_width_mm": 90,
+  "board_height_mm": 70,
+  "area_reduction_percent": 21.25,
+  "usb_center_spacing_mm": 13,
+  "general_clearance_mm": 0.2,
+  "vias": 155,
+  "signal_vias": 78,
+  "track_length_mm": 2494.3
+}

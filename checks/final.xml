@@ -1,0 +1,4265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/evanliu/Documents/ChatGPT/Mark1Verity/NFCC-PCB/revision-c/NFCC.kicad_sch</source>
+    <date>2026-09-15T07:54:45</date>
+    <tool>Eeschema 10.0.6</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>NFCC.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C12</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C12</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a59c8c6-4f53-4760-89f0-c20ac046f421</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C13</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C13</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e44f0dad-206c-4f99-bf58-c41daef09545</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C14</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C14</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5e01b3d-7c5d-450e-aff1-2ea0a76450d1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C15</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C15</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d6b88db-c9ad-457e-bf82-d7420fd02ee7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C16</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C16</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301ca507-0609-47e0-8115-5c6d6d9b46f1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C17">
+      <value>220n</value>
+      <footprint>NFCC:C_0603_1608Metric__C17</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C17</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9484a6b-2c8e-45a0-b610-c243a392b81c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C18</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C18</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8936433e-2e35-4b6d-9340-c1cd9e9bd32d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C19</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C19</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f51a9760-fdb1-4932-a3cf-7e92bf64b6a8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C20</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C20</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6180761-c6de-406a-898a-9cfdad21d128</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>NFCC:C_0805_2012Metric__C21</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C21</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77cb7fdc-ec02-4030-ab78-e42c908d7ac3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C22</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C22</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4831e1e-758c-4163-bb64-864feddd38bf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C23">
+      <value>10u</value>
+      <footprint>NFCC:C_0805_2012Metric__C23</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C23</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2e6202b-a50e-43c8-80cd-00417dc5c7bd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C24">
+      <value>10u</value>
+      <footprint>NFCC:C_0805_2012Metric__C24</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C24</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f254f98c-8ad1-42fc-a540-deacce8e57e6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C42">
+      <value>2u2</value>
+      <footprint>NFCC:C_0603_1608Metric__C42</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C42</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a902ad89-141d-4f09-b379-7bfd31755263</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C43">
+      <value>2u2</value>
+      <footprint>NFCC:C_0603_1608Metric__C43</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C43</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ee5f6cf-fd2a-430d-bb65-a320f078c5a4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C44">
+      <value>4u7</value>
+      <footprint>NFCC:C_0603_1608Metric__C44</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C44</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6841bc5-6879-43d1-b0e8-e57452d48e1f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C45">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C45</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C45</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf4a76c2-c780-49b2-a1c8-198bf3439f6a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C46">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C46</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C46</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0af5214-bd5a-4acc-a847-0283a9fe77ba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C47</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C47</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9376730c-a312-49a8-b031-0e45e582e46e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C48">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C48</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C48</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19689593-3cc5-492b-b508-aea4686ab918</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C49">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C49</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C49</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5e01a14-afa3-453c-a92b-cccc79ab03da</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C50">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C50</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C50</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0694802-7813-42bb-8b15-df67bd738bf0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C51">
+      <value>10p</value>
+      <footprint>NFCC:C_0603_1608Metric__C51</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C51</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2992018-1e04-45d1-b3da-81e2ecdf911b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C52">
+      <value>1u</value>
+      <footprint>NFCC:C_0603_1608Metric__C52</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C52</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99af2ede-08fc-4881-a563-6005cf112734</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C53">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C53</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C53</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20845e16-388e-4f3d-9661-af9b8de392ec</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C54">
+      <value>10p</value>
+      <footprint>NFCC:C_0603_1608Metric__C54</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C54</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03cd7775-d17c-4289-be81-af1e2c76bae7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C55">
+      <value>1u</value>
+      <footprint>NFCC:C_0603_1608Metric__C55</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C55</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a87a8aa2-7f7c-45f4-8d7f-0c619405ca38</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C56">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C56</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C56</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3232623b-672b-4dfc-8883-461e03dae9b2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C57">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C57</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C57</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa9372c4-f571-423d-8a70-08dad3835a8a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C58">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C58</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C58</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>720a055a-fbca-4fc9-a0d8-8d49e505f357</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C59">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C59</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C59</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bab0b3b-2b3b-4642-bc4a-26937a3d189a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C60">
+      <value>10u</value>
+      <footprint>NFCC:C_0805_2012Metric__C60</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C60</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d32c1097-0939-47bc-9ffe-1644818eaff5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C61">
+      <value>100n</value>
+      <footprint>NFCC:C_0603_1608Metric__C61</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0603_1608Metric__C61</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b289bcf-6861-4333-86cf-cc86427f384c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C62">
+      <value>22u</value>
+      <footprint>NFCC:C_0805_2012Metric__C62</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C62</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ee1bcc5-b9da-49d8-960d-ce5b4aa8f1e5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C63">
+      <value>22u</value>
+      <footprint>NFCC:C_0805_2012Metric__C63</footprint>
+      <description>Unpolarized capacitor</description>
+      <fields>
+        <field name="Footprint">NFCC:C_0805_2012Metric__C63</field>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>578fbe97-be4b-48fb-9cfe-05cac1d0d85a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D1">
+      <value>SD103AWS</value>
+      <footprint>NFCC:D_SOD-323__D1</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">NFCC:D_SOD-323__D1</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f262aee-8489-44ac-98a4-138a5f41d336</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D2">
+      <value>SD103AWS</value>
+      <footprint>NFCC:D_SOD-323__D2</footprint>
+      <description>Schottky diode</description>
+      <fields>
+        <field name="Footprint">NFCC:D_SOD-323__D2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02cf0290-2f0d-4683-ace3-f94bf8b31294</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D3">
+      <value>G</value>
+      <footprint>NFCC:LED_0603_1608Metric__D3</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__D3</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60bc7316-3908-4d67-ab41-88300eec8cec</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="D4">
+      <value>G</value>
+      <footprint>NFCC:LED_0603_1608Metric__D4</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__D4</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92959c1e-c9db-4224-a8d6-a8bfeb5dabd2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead_Small</value>
+      <footprint>NFCC:L_0805_2012Metric__FB1</footprint>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">NFCC:L_0805_2012Metric__FB1</field>
+        <field name="Datasheet"/>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf257d36-af17-4ca1-90ef-18ce53bbb73b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="FB2">
+      <value>FerriteBead_Small</value>
+      <footprint>NFCC:L_0805_2012Metric__FB2</footprint>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">NFCC:L_0805_2012Metric__FB2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e525af1a-5024-479f-aa16-71a4ff2bbeda</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="HSE3">
+      <value>25MHz</value>
+      <footprint>NFCC:Crystal_SMD_3225-4Pin_3.2x2.5mm__HSE3</footprint>
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <fields>
+        <field name="Footprint">NFCC:Crystal_SMD_3225-4Pin_3.2x2.5mm__HSE3</field>
+        <field name="Datasheet"/>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23dca5cc-0204-4e47-a53e-bb1e9ae319cc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="I2C5">
+      <value>53261-0471</value>
+      <footprint>NFCC:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal__I2C5</footprint>
+      <description>Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</description>
+      <fields>
+        <field name="Footprint">NFCC:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal__I2C5</field>
+        <field name="Datasheet"/>
+        <field name="Description">Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</field>
+      </fields>
+      <libsource lib="NFCC" part="PicoBlade_4_Grounded_Mounts" description="Molex PicoBlade 4-way; mounting tabs connected to ground pin 2"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>490de49e-69d3-499b-955f-d559cf8db37a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="MP"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Micro</value>
+      <footprint>NFCC:USB_Micro-B_Molex_47346-0001__J1</footprint>
+      <description>USB Micro Type B connector</description>
+      <fields>
+        <field name="Footprint">NFCC:USB_Micro-B_Molex_47346-0001__J1</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB Micro Type B connector</field>
+      </fields>
+      <libsource lib="" part="USB_B_Micro_1" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector USB micro"/>
+      <property name="ki_fp_filters" value="USB*Micro*B*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4459c880-7bcf-4ed6-a2bb-f06fe7c0082a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="SH"/>
+            <pin num="5"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>USB_B_Micro</value>
+      <footprint>NFCC:USB_Micro-B_Molex_47346-0001__J2</footprint>
+      <description>USB Micro Type B connector</description>
+      <fields>
+        <field name="Footprint">NFCC:USB_Micro-B_Molex_47346-0001__J2</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB Micro Type B connector</field>
+      </fields>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector USB micro"/>
+      <property name="ki_fp_filters" value="USB*Micro*B*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ace70735-72e8-4c5b-bc48-d8c533445b8f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="SH"/>
+            <pin num="5"/>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>LiPo Battery</value>
+      <footprint>NFCC:AMASS_XT60-M_1x02_P7.20mm_Vertical__J3</footprint>
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">NFCC:AMASS_XT60-M_1x02_P7.20mm_Vertical__J3</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dd097e0-b3b7-41a8-9179-cf353c27a5ca</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <footprint>NFCC:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm__JP1</footprint>
+      <description>Solder Jumper, 2-pole, open</description>
+      <fields>
+        <field name="Footprint">NFCC:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm__JP1</field>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <property name="ki_fp_filters" value="SolderJumper*Open*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6373ddcb-250e-4f3e-a703-53b9844ed873</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>4.7u</value>
+      <footprint>NFCC:L_Bourns_SRN6045TA__L1</footprint>
+      <description>Inductor</description>
+      <fields>
+        <field name="Footprint">NFCC:L_Bourns_SRN6045TA__L1</field>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <property name="ki_fp_filters" value="Choke_* *Coil* Inductor_* L_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5e9cfa5-ad39-4e02-811a-918769ab1574</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED13">
+      <value>R</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED13</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED13</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b4cb51a-7931-4a4a-b89f-63d095ed68be</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED14">
+      <value>R</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED14</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED14</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84d968fc-93bb-427a-a14c-e7258c1dce98</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED15">
+      <value>Y</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED15</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED15</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>988ca3d1-977d-4038-bb01-4bcd348d9eea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED16">
+      <value>B</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED16</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED16</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e313a9bc-8386-447f-9091-7f024f4bf626</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED17">
+      <value>B</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED17</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED17</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb2e2efe-51c5-4c79-b894-f12c7b5a5357</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="LED18">
+      <value>B</value>
+      <footprint>NFCC:LED_0603_1608Metric__LED18</footprint>
+      <description>Light emitting diode</description>
+      <fields>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">NFCC:LED_0603_1608Metric__LED18</field>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <property name="ki_fp_filters" value="LED* LED_SMD:* LED_THT:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29bc7b35-4d21-4423-8761-b3a7ba4fc430</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="NFCC2">
+      <value>STM32H753VITx</value>
+      <footprint>NFCC:LQFP-100_14x14mm_P0.5mm__NFCC2</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/stm32h753vi.pdf</datasheet>
+      <description>STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</description>
+      <fields>
+        <field name="Footprint">NFCC:LQFP-100_14x14mm_P0.5mm__NFCC2</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h753vi.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</field>
+      </fields>
+      <libsource lib="MCU_ST_STM32H7" part="STM32H753VITx" description="STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="Arm Cortex-M7 STM32H7 STM32H743/753"/>
+      <property name="ki_fp_filters" value="LQFP*14x14mm*P0.5mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46284174-1701-45c5-b5a6-0e6345903b09</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="14"/>
+            <pin num="94"/>
+            <pin num="20"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="97"/>
+            <pin num="98"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="37"/>
+            <pin num="38"/>
+            <pin num="39"/>
+            <pin num="40"/>
+            <pin num="41"/>
+            <pin num="42"/>
+            <pin num="43"/>
+            <pin num="44"/>
+            <pin num="45"/>
+            <pin num="81"/>
+            <pin num="82"/>
+            <pin num="83"/>
+            <pin num="84"/>
+            <pin num="85"/>
+            <pin num="86"/>
+            <pin num="87"/>
+            <pin num="88"/>
+            <pin num="55"/>
+            <pin num="56"/>
+            <pin num="57"/>
+            <pin num="58"/>
+            <pin num="59"/>
+            <pin num="60"/>
+            <pin num="61"/>
+            <pin num="62"/>
+            <pin num="48"/>
+            <pin num="73"/>
+            <pin num="6"/>
+            <pin num="11"/>
+            <pin num="27"/>
+            <pin num="50"/>
+            <pin num="74"/>
+            <pin num="10"/>
+            <pin num="99"/>
+            <pin num="49"/>
+            <pin num="26"/>
+            <pin num="75"/>
+            <pin num="19"/>
+            <pin num="100"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+            <pin num="24"/>
+            <pin num="25"/>
+            <pin num="28"/>
+            <pin num="29"/>
+            <pin num="30"/>
+            <pin num="31"/>
+            <pin num="67"/>
+            <pin num="68"/>
+            <pin num="69"/>
+            <pin num="70"/>
+            <pin num="71"/>
+            <pin num="72"/>
+            <pin num="76"/>
+            <pin num="77"/>
+            <pin num="34"/>
+            <pin num="35"/>
+            <pin num="36"/>
+            <pin num="89"/>
+            <pin num="90"/>
+            <pin num="91"/>
+            <pin num="92"/>
+            <pin num="93"/>
+            <pin num="95"/>
+            <pin num="96"/>
+            <pin num="46"/>
+            <pin num="47"/>
+            <pin num="51"/>
+            <pin num="52"/>
+            <pin num="53"/>
+            <pin num="54"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="32"/>
+            <pin num="33"/>
+            <pin num="63"/>
+            <pin num="64"/>
+            <pin num="65"/>
+            <pin num="66"/>
+            <pin num="78"/>
+            <pin num="79"/>
+            <pin num="80"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="PWM_POW2">
+      <value>Conn_02x08_Odd_Even</value>
+      <footprint>NFCC:PinHeader_2x08_P2.54mm_Vertical__PWM_POW2</footprint>
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">NFCC:PinHeader_2x08_P2.54mm_Vertical__PWM_POW2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x08_Odd_Even" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3365f51-c8cb-42ef-9c72-c459980a64c9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="10"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="16"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="PWM_SIG2">
+      <value>2.54mm</value>
+      <footprint>NFCC:PinHeader_1x08_P2.54mm_Vertical__PWM_SIG2</footprint>
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">NFCC:PinHeader_1x08_P2.54mm_Vertical__PWM_SIG2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14efd2f6-33d2-4cf0-8bc7-273489b3b2c4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>NFCC:R_0603_1608Metric__R1</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R1</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29939ace-afbb-4e32-88e5-1220e63d3f6e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>47k</value>
+      <footprint>NFCC:R_0603_1608Metric__R2</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eacccfc0-b66e-460e-8bdf-d53da8f896e0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>73.2k</value>
+      <footprint>NFCC:R_0603_1608Metric__R3</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R3</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6e5df21-1b1a-4ccf-8a65-1f84ef01ede3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>NFCC:R_0603_1608Metric__R4</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R4</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c69e7fa-faf8-461a-8745-9bdfe15e38f2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>NFCC:R_0603_1608Metric__R5</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R5</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>025d23a1-a55d-4c0d-a8b1-9e40a88eda72</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>NFCC:R_0603_1608Metric__R6</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R6</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b49a641-ccc0-4573-a3f0-18344887d7af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>NFCC:R_0603_1608Metric__R7</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R7</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c68a4a4-28ab-4e2c-b1a0-05e115e3ffbf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R35">
+      <value>330</value>
+      <footprint>NFCC:R_0603_1608Metric__R35</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R35</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbd687db-6103-471a-9d42-8772b40472ad</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R36">
+      <value>330</value>
+      <footprint>NFCC:R_0603_1608Metric__R36</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R36</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdc3bb4c-4dd5-4325-ba96-367062341d9c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R37">
+      <value>330</value>
+      <footprint>NFCC:R_0603_1608Metric__R37</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R37</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfb94fcd-07c0-4fbe-adaa-3a939d424006</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>NFCC:R_0603_1608Metric__R38</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R38</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>048497d8-43e3-4a68-abb2-08acea137456</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R39">
+      <value>100</value>
+      <footprint>NFCC:R_0603_1608Metric__R39</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R39</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d52c72cc-aa94-4962-a87f-5813d2943d04</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R40">
+      <value>100</value>
+      <footprint>NFCC:R_0603_1608Metric__R40</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R40</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66a1974c-7e7d-4a70-8dc9-c026e11b2957</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R41">
+      <value>100</value>
+      <footprint>NFCC:R_0603_1608Metric__R41</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R41</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>954e8563-cebf-45f4-82ec-7d70e8b4a986</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R42">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R42</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R42</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79bbbe2e-b588-4099-a355-d38db42c5be6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R43">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R43</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R43</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51b52314-e7a0-4ca1-9def-bf3e4714649a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R44">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R44</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R44</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83121c4b-b705-4c93-86d3-e6234e0efa82</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R45">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R45</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R45</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f72842ba-4149-490b-a18f-e66080097769</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R46">
+      <value>620</value>
+      <footprint>NFCC:R_0603_1608Metric__R46</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R46</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e918e13-68af-45ef-b5cf-ebed2d708352</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R47">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R47</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R47</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>433f75ba-48ff-4d04-8f79-51bde078e92b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R48">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R48</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R48</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dc60286-2de9-4fd2-8d46-39d317ec4d98</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R49">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R49</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R49</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>916ea797-0a0d-4edf-b467-a77a7ba20d49</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R50">
+      <value>4k7</value>
+      <footprint>NFCC:R_0603_1608Metric__R50</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R50</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da2c2f03-9af6-4d14-a923-b85ff3cc5b04</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R51">
+      <value>22</value>
+      <footprint>NFCC:R_0603_1608Metric__R51</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R51</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4823e270-a750-48b0-83e0-2896d4f6c257</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R52">
+      <value>22</value>
+      <footprint>NFCC:R_0603_1608Metric__R52</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R52</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c6b3cd3-e6a3-471d-8cfc-15a0505debf2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R53">
+      <value>560</value>
+      <footprint>NFCC:R_0603_1608Metric__R53</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R53</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fa68c9f-517d-4cf5-97f8-ac6049eb0da8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R54">
+      <value>560</value>
+      <footprint>NFCC:R_0603_1608Metric__R54</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R54</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>345d5c5e-8481-4f94-9901-245bb6fa7158</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R55">
+      <value>240</value>
+      <footprint>NFCC:R_0603_1608Metric__R55</footprint>
+      <description>Resistor</description>
+      <fields>
+        <field name="Footprint">NFCC:R_0603_1608Metric__R55</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>698a31c2-3027-462b-9d22-08a550a883fc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>NFCC:SW_SPST_SKQG_WithoutStem__SW5</footprint>
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Footprint">NFCC:SW_SPST_SKQG_WithoutStem__SW5</field>
+        <field name="Datasheet"/>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b3ca61-7ecd-460c-b4e0-2ef92d7681b2</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_SPDT</value>
+      <footprint>NFCC:SW_SPDT_PCM12__SW6</footprint>
+      <description>Switch, single pole double throw</description>
+      <fields>
+        <field name="Footprint">NFCC:SW_SPDT_PCM12__SW6</field>
+        <field name="Datasheet"/>
+        <field name="Description">Switch, single pole double throw</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d101f373-3a3f-4404-8e42-88a47f71d87d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SWD2">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>NFCC:PinHeader_2x05_P1.27mm_Vertical__SWD2</footprint>
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">NFCC:PinHeader_2x05_P1.27mm_Vertical__SWD2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1d2728d-61e8-4449-90ff-14f272ca219e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="10"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TELEM2">
+      <value>53261-0471</value>
+      <footprint>NFCC:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal__TELEM2</footprint>
+      <description>Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</description>
+      <fields>
+        <field name="Footprint">NFCC:Molex_PicoBlade_53261-0471_1x04-1MP_P1.25mm_Horizontal__TELEM2</field>
+        <field name="Datasheet"/>
+        <field name="Description">Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</field>
+      </fields>
+      <libsource lib="NFCC" part="PicoBlade_4_Grounded_Mounts" description="Molex PicoBlade 4-way; mounting tabs connected to ground pin 2"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a4a313b-4219-4aa5-bee0-a280b8526b6e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="MP"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP5">
+      <value>I2C1</value>
+      <footprint>NFCC:TestPoint_Pad_D1.5mm__TP5</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">NFCC:TestPoint_Pad_D1.5mm__TP5</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3955f258-570a-4112-b981-1b8c0652f40d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP6">
+      <value>I2C1</value>
+      <footprint>NFCC:TestPoint_Pad_D1.5mm__TP6</footprint>
+      <description>test point</description>
+      <fields>
+        <field name="Footprint">NFCC:TestPoint_Pad_D1.5mm__TP6</field>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <property name="ki_fp_filters" value="Pin* Test*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c51b9279-0757-4c1a-86e4-3cb5d79fa52a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>CH330N</value>
+      <footprint>NFCC:SOIC-8_3.9x4.9mm_P1.27mm__U1</footprint>
+      <datasheet>http://www.wch.cn/downloads/file/240.html</datasheet>
+      <description>USB serial converter, UART, SOIC-8</description>
+      <fields>
+        <field name="Footprint">NFCC:SOIC-8_3.9x4.9mm_P1.27mm__U1</field>
+        <field name="Datasheet">http://www.wch.cn/downloads/file/240.html</field>
+        <field name="Description">USB serial converter, UART, SOIC-8</field>
+      </fields>
+      <libsource lib="Interface_USB" part="CH330N" description="USB serial converter, UART, SOIC-8"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="usb uart wch serial"/>
+      <property name="ki_fp_filters" value="SOIC*3.9x4.9mm*P1.27mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>542f82e0-1986-460c-b8b8-ea491218d6ea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>TPS54302</value>
+      <footprint>NFCC:SOT-23-6__U2</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps54302.pdf</datasheet>
+      <description>3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</description>
+      <fields>
+        <field name="Footprint">NFCC:SOT-23-6__U2</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54302.pdf</field>
+        <field name="Description">3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="TPS54302" description="3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="switching buck converter power-supply voltage regulator emi spread spectrum"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ffc0291-63a7-4a74-886e-bf2ce59230c5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="1"/>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U3">
+      <value>LD39200PU33R</value>
+      <footprint>NFCC:SON_DFN6_3X3_STM__U3</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/ld39200.pdf</datasheet>
+      <fields>
+        <field name="Footprint">NFCC:SON_DFN6_3X3_STM__U3</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/ld39200.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2026-09-15_06-05-24" part="LD39200PU33R" description=""/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="LD39200PU33R"/>
+      <property name="ki_fp_filters" value="SON_DFN6_3X3_STM SON_DFN6_3X3_STM-M SON_DFN6_3X3_STM-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc98db03-f4f8-44da-be0b-97645faef8c4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="1"/>
+            <pin num="7"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U7">
+      <value>BMP581</value>
+      <footprint>NFCC:QFN10_BMP581_BOS__U7</footprint>
+      <datasheet>BMP581</datasheet>
+      <fields>
+        <field name="Footprint">NFCC:QFN10_BMP581_BOS__U7</field>
+        <field name="Datasheet">BMP581</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2026-09-11_15-15-31" part="BMP581" description=""/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="BMP581"/>
+      <property name="ki_fp_filters" value="QFN10_BMP581_BOS QFN10_BMP581_BOS-M QFN10_BMP581_BOS-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a1dceb0-cf7c-4ac8-807b-631f4539e0ea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="10"/>
+            <pin num="9"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="6"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U8">
+      <value>W25N01GVZEIG</value>
+      <footprint>NFCC:WSON-8_8X6_WIN__U8</footprint>
+      <datasheet>W25N01GVZEIG</datasheet>
+      <fields>
+        <field name="Footprint">NFCC:WSON-8_8X6_WIN__U8</field>
+        <field name="Datasheet">W25N01GVZEIG</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2026-09-11_14-39-13" part="W25N01GVZEIG" description=""/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="W25N01GVZEIG"/>
+      <property name="ki_fp_filters" value="WSON-8_8X6_WIN WSON-8_8X6_WIN-M WSON-8_8X6_WIN-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e96ef80d-0337-4b12-9809-135b3b64195a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="9"/>
+            <pin num="8"/>
+            <pin num="7"/>
+            <pin num="6"/>
+            <pin num="5"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U9">
+      <value>PCA9685PW</value>
+      <footprint>NFCC:TSSOP-28_4.4x9.7mm_P0.65mm__U9</footprint>
+      <datasheet>http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf</datasheet>
+      <description>16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP</description>
+      <fields>
+        <field name="Footprint">NFCC:TSSOP-28_4.4x9.7mm_P0.65mm__U9</field>
+        <field name="Datasheet">http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf</field>
+        <field name="Description">16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP</field>
+      </fields>
+      <libsource lib="Driver_LED" part="PCA9685PW" description="16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="PWM LED driver I2C TSSOP"/>
+      <property name="ki_fp_filters" value="TSSOP*4.4x9.7mm*P0.65mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>629cfebc-7a62-4247-8bbf-6447596d8f64</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="26"/>
+            <pin num="27"/>
+            <pin num="25"/>
+            <pin num="23"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="24"/>
+            <pin num="28"/>
+            <pin num="14"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="22"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U10">
+      <value>IIS2MDCTR</value>
+      <footprint>NFCC:LGA-12_2X2X0P7_STM__U10</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/iis2mdc.pdf</datasheet>
+      <fields>
+        <field name="Footprint">NFCC:LGA-12_2X2X0P7_STM__U10</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/iis2mdc.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2026-09-11_15-18-11" part="IIS2MDCTR" description=""/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="IIS2MDCTR"/>
+      <property name="ki_fp_filters" value="LGA-12_2X2X0P7_STM LGA-12_2X2X0P7_STM-M LGA-12_2X2X0P7_STM-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3074e167-ba54-49b3-ba70-5efac54f4d13</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="12"/>
+            <pin num="11"/>
+            <pin num="10"/>
+            <pin num="9"/>
+            <pin num="8"/>
+            <pin num="7"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U11">
+      <value>24CW1280T-I/OT</value>
+      <footprint>NFCC:SOT-23-5_2P9X1P6_MCH__U11</footprint>
+      <datasheet>24CW1280T-I/OT</datasheet>
+      <fields>
+        <field name="Footprint">NFCC:SOT-23-5_2P9X1P6_MCH__U11</field>
+        <field name="Datasheet">24CW1280T-I/OT</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="2026-09-11_14-30-58" part="24CW1280T-I_OT" description=""/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="24CW1280T-I/OT"/>
+      <property name="ki_fp_filters" value="SOT-23-5_2P9X1P6_MCH SOT-23-5_2P9X1P6_MCH-M SOT-23-5_2P9X1P6_MCH-L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f6758cc-44bf-4077-9878-0e2408220ac6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="4"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U12">
+      <value>BMI088</value>
+      <footprint>NFCC:Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering__U12</footprint>
+      <datasheet>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf</datasheet>
+      <description>Accelerometer, Gyroscope, 6-Axis Sensor, I2C / SPI interface, LGA-16</description>
+      <fields>
+        <field name="Footprint">NFCC:Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering__U12</field>
+        <field name="Datasheet">https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf</field>
+        <field name="Description">Accelerometer, Gyroscope, 6-Axis Sensor, I2C / SPI interface, LGA-16</field>
+      </fields>
+      <libsource lib="Sensor_Motion" part="BMI088" description="Accelerometer, Gyroscope, 6-Axis Sensor, I2C / SPI interface, LGA-16"/>
+      <property name="Sheetname" value="NFCC"/>
+      <property name="Sheetfile" value="NFCC.kicad_sch"/>
+      <property name="ki_keywords" value="Bosch-Sensortec inertial-measurement-unit IMU"/>
+      <property name="ki_fp_filters" value="Bosch*LGA*4.5x3mm?P0.5mm*ClockwisePinNumbering*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7eca563-6a0a-4465-9262-9600bf28d1c0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="14"/>
+            <pin num="5"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="15"/>
+            <pin num="10"/>
+            <pin num="7"/>
+            <pin num="3"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="11"/>
+            <pin num="6"/>
+            <pin num="16"/>
+            <pin num="1"/>
+            <pin num="12"/>
+            <pin num="13"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="USB_B_Micro_1">
+      <description>USB Micro Type B connector</description>
+      <footprints>
+        <fp>USB*Micro*B*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Footprint">Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB Micro Type B connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="SH" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="2026-09-11_14-30-58" part="24CW1280T-I_OT">
+      <docs>24CW1280T-I/OT</docs>
+      <footprints>
+        <fp>SOT-23-5_2P9X1P6_MCH</fp>
+        <fp>SOT-23-5_2P9X1P6_MCH-M</fp>
+        <fp>SOT-23-5_2P9X1P6_MCH-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U11</field>
+        <field name="Value">24CW1280T-I/OT</field>
+        <field name="Footprint">SOT-23-5_2P9X1P6_MCH</field>
+        <field name="Datasheet">24CW1280T-I/OT</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL" type="unspecified"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="SDA" type="unspecified"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="2026-09-11_14-39-13" part="W25N01GVZEIG">
+      <docs>W25N01GVZEIG</docs>
+      <footprints>
+        <fp>WSON-8_8X6_WIN</fp>
+        <fp>WSON-8_8X6_WIN-M</fp>
+        <fp>WSON-8_8X6_WIN-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U8</field>
+        <field name="Value">W25N01GVZEIG</field>
+        <field name="Footprint">WSON-8_8X6_WIN</field>
+        <field name="Datasheet">W25N01GVZEIG</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="/CS" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="/WP(IO2)" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="/HOLD(IO3)" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="2026-09-11_15-15-31" part="BMP581">
+      <docs>BMP581</docs>
+      <footprints>
+        <fp>QFN10_BMP581_BOS</fp>
+        <fp>QFN10_BMP581_BOS-M</fp>
+        <fp>QFN10_BMP581_BOS-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U7</field>
+        <field name="Value">BMP581</field>
+        <field name="Footprint">QFN10_BMP581_BOS</field>
+        <field name="Datasheet">BMP581</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDIO" type="power_in"/>
+        <pin num="2" name="SCK" type="unspecified"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="SDI" type="unspecified"/>
+        <pin num="5" name="SDO" type="unspecified"/>
+        <pin num="6" name="CSB" type="unspecified"/>
+        <pin num="7" name="INT" type="input"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="VSS" type="power_in"/>
+        <pin num="10" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="2026-09-11_15-18-11" part="IIS2MDCTR">
+      <docs>https://www.st.com/resource/en/datasheet/iis2mdc.pdf</docs>
+      <footprints>
+        <fp>LGA-12_2X2X0P7_STM</fp>
+        <fp>LGA-12_2X2X0P7_STM-M</fp>
+        <fp>LGA-12_2X2X0P7_STM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U10</field>
+        <field name="Value">IIS2MDCTR</field>
+        <field name="Footprint">LGA-12_2X2X0P7_STM</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/iis2mdc.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="SCL/SPC" type="bidirectional"/>
+        <pin num="2" name="NC" type="no_connect"/>
+        <pin num="3" name="CS" type="input"/>
+        <pin num="4" name="SDA/SDI/SDO" type="bidirectional"/>
+        <pin num="5" name="C1" type="unspecified"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="INT/DRDY" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="VDD_IO" type="power_in"/>
+        <pin num="11" name="NC" type="no_connect"/>
+        <pin num="12" name="NC" type="no_connect"/>
+      </pins>
+    </libpart>
+    <libpart lib="2026-09-15_06-05-24" part="LD39200PU33R">
+      <docs>https://www.st.com/resource/en/datasheet/ld39200.pdf</docs>
+      <footprints>
+        <fp>SON_DFN6_3X3_STM</fp>
+        <fp>SON_DFN6_3X3_STM-M</fp>
+        <fp>SON_DFN6_3X3_STM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">LD39200PU33R</field>
+        <field name="Footprint">SON_DFN6_3X3_STM</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/ld39200.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="ADJ/SENSE" type="unspecified"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="PG" type="unspecified"/>
+        <pin num="5" name="EN" type="unspecified"/>
+        <pin num="6" name="IN" type="power_in"/>
+        <pin num="7" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">test point</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <footprints>
+        <fp>USB*Micro*B*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Footprint">Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm</field>
+        <field name="Datasheet"/>
+        <field name="Description">USB Micro Type B connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="SH" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J3</field>
+        <field name="Value">LiPo Battery</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x08_Odd_Even">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x08_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Unpolarized capacitor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Schottky diode</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Inductor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Light emitting diode</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="PCA9685PW">
+      <description>16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP</description>
+      <docs>http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x9.7mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9685PW</field>
+        <field name="Footprint">Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm</field>
+        <field name="Datasheet">http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf</field>
+        <field name="Description">16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA TSSOP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A3" type="input"/>
+        <pin num="5" name="A4" type="input"/>
+        <pin num="6" name="LED0" type="output"/>
+        <pin num="7" name="LED1" type="output"/>
+        <pin num="8" name="LED2" type="output"/>
+        <pin num="9" name="LED3" type="output"/>
+        <pin num="10" name="LED4" type="output"/>
+        <pin num="11" name="LED5" type="output"/>
+        <pin num="12" name="LED6" type="output"/>
+        <pin num="13" name="LED7" type="output"/>
+        <pin num="14" name="VSS" type="power_in"/>
+        <pin num="15" name="LED8" type="output"/>
+        <pin num="16" name="LED9" type="output"/>
+        <pin num="17" name="LED10" type="output"/>
+        <pin num="18" name="LED11" type="output"/>
+        <pin num="19" name="LED12" type="output"/>
+        <pin num="20" name="LED13" type="output"/>
+        <pin num="21" name="LED14" type="output"/>
+        <pin num="22" name="LED15" type="output"/>
+        <pin num="23" name="~{OE}" type="input"/>
+        <pin num="24" name="A5" type="input"/>
+        <pin num="25" name="EXTCLK" type="input"/>
+        <pin num="26" name="SCL" type="input"/>
+        <pin num="27" name="SDA" type="bidirectional"/>
+        <pin num="28" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="CH330N">
+      <description>USB serial converter, UART, SOIC-8</description>
+      <docs>http://www.wch.cn/downloads/file/240.html</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CH330N</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.wch.cn/downloads/file/240.html</field>
+        <field name="Description">USB serial converter, UART, SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="UD+" type="bidirectional"/>
+        <pin num="2" name="UD-" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~{RTS}" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+        <pin num="6" name="TXD" type="output"/>
+        <pin num="7" name="RXD" type="input"/>
+        <pin num="8" name="V3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Solder Jumper, 2-pole, open</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32H7" part="STM32H753VITx">
+      <description>STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</description>
+      <docs>https://www.st.com/resource/en/datasheet/stm32h753vi.pdf</docs>
+      <footprints>
+        <fp>LQFP*14x14mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32H753VITx</field>
+        <field name="Footprint">Package_QFP:LQFP-100_14x14mm_P0.5mm</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/stm32h753vi.pdf</field>
+        <field name="Description">STMicroelectronics Arm Cortex-M7 MCU, 2048KB flash, 1024KB RAM, 480 MHz, 1.71-3.6V, 82 GPIO, LQFP100</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE2" type="bidirectional"/>
+        <pin num="2" name="PE3" type="bidirectional"/>
+        <pin num="3" name="PE4" type="bidirectional"/>
+        <pin num="4" name="PE5" type="bidirectional"/>
+        <pin num="5" name="PE6" type="bidirectional"/>
+        <pin num="6" name="VBAT" type="power_in"/>
+        <pin num="7" name="PC13" type="bidirectional"/>
+        <pin num="8" name="PC14" type="bidirectional"/>
+        <pin num="9" name="PC15" type="bidirectional"/>
+        <pin num="10" name="VSS" type="power_in"/>
+        <pin num="11" name="VDD" type="power_in"/>
+        <pin num="12" name="PH0" type="bidirectional"/>
+        <pin num="13" name="PH1" type="bidirectional"/>
+        <pin num="14" name="NRST" type="input"/>
+        <pin num="15" name="PC0" type="bidirectional"/>
+        <pin num="16" name="PC1" type="bidirectional"/>
+        <pin num="17" name="PC2_C" type="bidirectional"/>
+        <pin num="18" name="PC3_C" type="bidirectional"/>
+        <pin num="19" name="VSSA" type="power_in"/>
+        <pin num="20" name="VREF+" type="input"/>
+        <pin num="21" name="VDDA" type="power_in"/>
+        <pin num="22" name="PA0" type="bidirectional"/>
+        <pin num="23" name="PA1" type="bidirectional"/>
+        <pin num="24" name="PA2" type="bidirectional"/>
+        <pin num="25" name="PA3" type="bidirectional"/>
+        <pin num="26" name="VSS" type="passive"/>
+        <pin num="27" name="VDD" type="power_in"/>
+        <pin num="28" name="PA4" type="bidirectional"/>
+        <pin num="29" name="PA5" type="bidirectional"/>
+        <pin num="30" name="PA6" type="bidirectional"/>
+        <pin num="31" name="PA7" type="bidirectional"/>
+        <pin num="32" name="PC4" type="bidirectional"/>
+        <pin num="33" name="PC5" type="bidirectional"/>
+        <pin num="34" name="PB0" type="bidirectional"/>
+        <pin num="35" name="PB1" type="bidirectional"/>
+        <pin num="36" name="PB2" type="bidirectional"/>
+        <pin num="37" name="PE7" type="bidirectional"/>
+        <pin num="38" name="PE8" type="bidirectional"/>
+        <pin num="39" name="PE9" type="bidirectional"/>
+        <pin num="40" name="PE10" type="bidirectional"/>
+        <pin num="41" name="PE11" type="bidirectional"/>
+        <pin num="42" name="PE12" type="bidirectional"/>
+        <pin num="43" name="PE13" type="bidirectional"/>
+        <pin num="44" name="PE14" type="bidirectional"/>
+        <pin num="45" name="PE15" type="bidirectional"/>
+        <pin num="46" name="PB10" type="bidirectional"/>
+        <pin num="47" name="PB11" type="bidirectional"/>
+        <pin num="48" name="VCAP" type="power_out"/>
+        <pin num="49" name="VSS" type="passive"/>
+        <pin num="50" name="VDD" type="power_in"/>
+        <pin num="51" name="PB12" type="bidirectional"/>
+        <pin num="52" name="PB13" type="bidirectional"/>
+        <pin num="53" name="PB14" type="bidirectional"/>
+        <pin num="54" name="PB15" type="bidirectional"/>
+        <pin num="55" name="PD8" type="bidirectional"/>
+        <pin num="56" name="PD9" type="bidirectional"/>
+        <pin num="57" name="PD10" type="bidirectional"/>
+        <pin num="58" name="PD11" type="bidirectional"/>
+        <pin num="59" name="PD12" type="bidirectional"/>
+        <pin num="60" name="PD13" type="bidirectional"/>
+        <pin num="61" name="PD14" type="bidirectional"/>
+        <pin num="62" name="PD15" type="bidirectional"/>
+        <pin num="63" name="PC6" type="bidirectional"/>
+        <pin num="64" name="PC7" type="bidirectional"/>
+        <pin num="65" name="PC8" type="bidirectional"/>
+        <pin num="66" name="PC9" type="bidirectional"/>
+        <pin num="67" name="PA8" type="bidirectional"/>
+        <pin num="68" name="PA9" type="bidirectional"/>
+        <pin num="69" name="PA10" type="bidirectional"/>
+        <pin num="70" name="PA11" type="bidirectional"/>
+        <pin num="71" name="PA12" type="bidirectional"/>
+        <pin num="72" name="PA13" type="bidirectional"/>
+        <pin num="73" name="VCAP" type="power_out"/>
+        <pin num="74" name="VSS" type="passive"/>
+        <pin num="75" name="VDD" type="power_in"/>
+        <pin num="76" name="PA14" type="bidirectional"/>
+        <pin num="77" name="PA15" type="bidirectional"/>
+        <pin num="78" name="PC10" type="bidirectional"/>
+        <pin num="79" name="PC11" type="bidirectional"/>
+        <pin num="80" name="PC12" type="bidirectional"/>
+        <pin num="81" name="PD0" type="bidirectional"/>
+        <pin num="82" name="PD1" type="bidirectional"/>
+        <pin num="83" name="PD2" type="bidirectional"/>
+        <pin num="84" name="PD3" type="bidirectional"/>
+        <pin num="85" name="PD4" type="bidirectional"/>
+        <pin num="86" name="PD5" type="bidirectional"/>
+        <pin num="87" name="PD6" type="bidirectional"/>
+        <pin num="88" name="PD7" type="bidirectional"/>
+        <pin num="89" name="PB3" type="bidirectional"/>
+        <pin num="90" name="PB4" type="bidirectional"/>
+        <pin num="91" name="PB5" type="bidirectional"/>
+        <pin num="92" name="PB6" type="bidirectional"/>
+        <pin num="93" name="PB7" type="bidirectional"/>
+        <pin num="94" name="BOOT0" type="input"/>
+        <pin num="95" name="PB8" type="bidirectional"/>
+        <pin num="96" name="PB9" type="bidirectional"/>
+        <pin num="97" name="PE0" type="bidirectional"/>
+        <pin num="98" name="PE1" type="bidirectional"/>
+        <pin num="99" name="VSS" type="passive"/>
+        <pin num="100" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="NFCC" part="PicoBlade_4_Grounded_Mounts">
+      <description>Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</description>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">53261-0471</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Molex PicoBlade 4-way; mounting tabs connected to ground pin 2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="MP" name="Mount_GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TPS54302">
+      <description>3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tps54302.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54302</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54302.pdf</field>
+        <field name="Description">3A, 4.5 to 28V Input, EMI Friendly integrated switch synchronous step-down regulator, pulse-skipping, SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="SW" type="power_out"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="BOOT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Motion" part="BMI088">
+      <description>Accelerometer, Gyroscope, 6-Axis Sensor, I2C / SPI interface, LGA-16</description>
+      <docs>https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf</docs>
+      <footprints>
+        <fp>Bosch*LGA*4.5x3mm?P0.5mm*ClockwisePinNumbering*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U12</field>
+        <field name="Value">BMI088</field>
+        <field name="Footprint">Package_LGA:Bosch_LGA-16_4.5x3mm_P0.5mm_LayoutBorder7x1y_ClockwisePinNumbering</field>
+        <field name="Datasheet">https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi088-ds001.pdf</field>
+        <field name="Description">Accelerometer, Gyroscope, 6-Axis Sensor, I2C / SPI interface, LGA-16</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INT2" type="bidirectional"/>
+        <pin num="2" name="GNDA" type="passive"/>
+        <pin num="3" name="VDD" type="power_in"/>
+        <pin num="4" name="GNDA" type="power_in"/>
+        <pin num="5" name="~{CSB2}" type="input"/>
+        <pin num="6" name="GNDIO" type="power_in"/>
+        <pin num="7" name="PS" type="input"/>
+        <pin num="8" name="SCK/SCL" type="input"/>
+        <pin num="9" name="SDI/SDA" type="bidirectional"/>
+        <pin num="10" name="SDO2" type="passive"/>
+        <pin num="11" name="VDDIO" type="power_in"/>
+        <pin num="12" name="INT3" type="bidirectional"/>
+        <pin num="13" name="INT4" type="bidirectional"/>
+        <pin num="14" name="~{CSB1}" type="input"/>
+        <pin num="15" name="SDO1" type="passive"/>
+        <pin num="16" name="INT1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">Switch, single pole double throw</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="2026-09-11_14-30-58">
+      <uri>/Users/evanliu/Downloads/ul_24CW1280T-I-OT/KiCADv6/2026-09-11_14-30-58.kicad_sym</uri>
+    </library>
+    <library logical="2026-09-11_14-39-13">
+      <uri>/Users/evanliu/Downloads/ul_W25N01GVZEIG/KiCADv6/2026-09-11_14-39-13.kicad_sym</uri>
+    </library>
+    <library logical="2026-09-11_15-15-31">
+      <uri>/Users/evanliu/Downloads/ul_BMP581/KiCADv6/2026-09-11_15-15-31.kicad_sym</uri>
+    </library>
+    <library logical="2026-09-11_15-18-11">
+      <uri>/Users/evanliu/Downloads/ul_IIS2MDCTR/KiCADv6/2026-09-11_15-18-11.kicad_sym</uri>
+    </library>
+    <library logical="2026-09-15_06-05-24">
+      <uri>/Users/evanliu/Downloads/ul_LD39200PU33R/KiCADv6/2026-09-15_06-05-24.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>${KICAD10_SYMBOL_DIR}/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>${KICAD10_SYMBOL_DIR}/Driver_LED.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>${KICAD10_SYMBOL_DIR}/Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>${KICAD10_SYMBOL_DIR}/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32H7">
+      <uri>${KICAD10_SYMBOL_DIR}/MCU_ST_STM32H7.kicad_sym</uri>
+    </library>
+    <library logical="NFCC">
+      <uri>${KIPRJMOD}/NFCC.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>${KICAD10_SYMBOL_DIR}/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Motion">
+      <uri>${KICAD10_SYMBOL_DIR}/Sensor_Motion.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>${KICAD10_SYMBOL_DIR}/Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V" class="Power">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C62" pin="1" pintype="passive"/>
+      <node ref="C63" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="PWM_POW2" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="PWM_POW2" pin="11" pinfunction="Pin_11_11" pintype="passive"/>
+      <node ref="PWM_POW2" pin="13" pinfunction="Pin_13_13" pintype="passive"/>
+      <node ref="PWM_POW2" pin="15" pinfunction="Pin_15_15" pintype="passive"/>
+      <node ref="PWM_POW2" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="PWM_POW2" pin="5" pinfunction="Pin_5_5" pintype="passive"/>
+      <node ref="PWM_POW2" pin="7" pinfunction="Pin_7_7" pintype="passive"/>
+      <node ref="PWM_POW2" pin="9" pinfunction="Pin_9_9" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="EN_5" pintype="unspecified"/>
+      <node ref="U3" pin="6" pinfunction="IN_6" pintype="power_in"/>
+    </net>
+    <net code="2" name="BAT_SENSE" class="Default">
+      <node ref="C59" pin="1" pintype="passive"/>
+      <node ref="NFCC2" pin="22" pinfunction="PA0_22" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="BMI088_ACC_INT" class="Default">
+      <node ref="NFCC2" pin="43" pinfunction="PE13_43" pintype="bidirectional"/>
+      <node ref="U12" pin="16" pinfunction="INT1_16" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="BMI088_GYRO_INT" class="Default">
+      <node ref="NFCC2" pin="44" pinfunction="PE14_44" pintype="bidirectional"/>
+      <node ref="U12" pin="12" pinfunction="INT3_12" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="BMP581_INT" class="Default">
+      <node ref="NFCC2" pin="45" pinfunction="PE15_45" pintype="bidirectional"/>
+      <node ref="U7" pin="7" pinfunction="INT_7" pintype="input"/>
+    </net>
+    <net code="6" name="BOOT0" class="Default">
+      <node ref="NFCC2" pin="94" pinfunction="BOOT0_94" pintype="input"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="DEBUG_RX" class="Default">
+      <node ref="NFCC2" pin="54" pinfunction="PB15_54" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="TXD_6" pintype="output"/>
+    </net>
+    <net code="8" name="DEBUG_TX" class="Default">
+      <node ref="NFCC2" pin="53" pinfunction="PB14_53" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="RXD_7" pintype="input"/>
+    </net>
+    <net code="9" name="FLASH_CS" class="Default">
+      <node ref="NFCC2" pin="28" pinfunction="PA4_28" pintype="bidirectional"/>
+      <node ref="U8" pin="1" pinfunction="/CS_1" pintype="input"/>
+    </net>
+    <net code="10" name="FLASH_MISO" class="Default">
+      <node ref="NFCC2" pin="30" pinfunction="PA6_30" pintype="bidirectional"/>
+      <node ref="U8" pin="2" pinfunction="DO(IO1)_2" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="FLASH_MOSI" class="Default">
+      <node ref="NFCC2" pin="31" pinfunction="PA7_31" pintype="bidirectional"/>
+      <node ref="U8" pin="5" pinfunction="DI(IO0)_5" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="FLASH_SCK" class="Default">
+      <node ref="NFCC2" pin="29" pinfunction="PA5_29" pintype="bidirectional"/>
+      <node ref="U8" pin="6" pinfunction="CLK_6" pintype="input"/>
+    </net>
+    <net code="13" name="GND" class="Default">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="C55" pin="2" pintype="passive"/>
+      <node ref="C56" pin="2" pintype="passive"/>
+      <node ref="C57" pin="2" pintype="passive"/>
+      <node ref="C58" pin="2" pintype="passive"/>
+      <node ref="C59" pin="2" pintype="passive"/>
+      <node ref="C60" pin="2" pintype="passive"/>
+      <node ref="C62" pin="2" pintype="passive"/>
+      <node ref="C63" pin="2" pintype="passive"/>
+      <node ref="HSE3" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="HSE3" pin="4" pinfunction="4_4" pintype="passive"/>
+      <node ref="I2C5" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="I2C5" pin="MP" pinfunction="Mount_GND_MP" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND_5" pintype="power_in"/>
+      <node ref="J1" pin="SH" pinfunction="Shield_SH" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="GND_5" pintype="power_in"/>
+      <node ref="J2" pin="SH" pinfunction="Shield_SH" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="NFCC2" pin="10" pinfunction="VSS_10" pintype="power_in"/>
+      <node ref="NFCC2" pin="19" pinfunction="VSSA_19" pintype="power_in"/>
+      <node ref="NFCC2" pin="26" pinfunction="VSS_26" pintype="passive"/>
+      <node ref="NFCC2" pin="49" pinfunction="VSS_49" pintype="passive"/>
+      <node ref="NFCC2" pin="74" pinfunction="VSS_74" pintype="passive"/>
+      <node ref="NFCC2" pin="99" pinfunction="VSS_99" pintype="passive"/>
+      <node ref="PWM_POW2" pin="10" pinfunction="Pin_10_10" pintype="passive"/>
+      <node ref="PWM_POW2" pin="12" pinfunction="Pin_12_12" pintype="passive"/>
+      <node ref="PWM_POW2" pin="14" pinfunction="Pin_14_14" pintype="passive"/>
+      <node ref="PWM_POW2" pin="16" pinfunction="Pin_16_16" pintype="passive"/>
+      <node ref="PWM_POW2" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="PWM_POW2" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+      <node ref="PWM_POW2" pin="6" pinfunction="Pin_6_6" pintype="passive"/>
+      <node ref="PWM_POW2" pin="8" pinfunction="Pin_8_8" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="SW6" pin="3" pinfunction="C_3" pintype="passive"/>
+      <node ref="SWD2" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="SWD2" pin="5" pinfunction="Pin_5_5" pintype="passive"/>
+      <node ref="SWD2" pin="9" pinfunction="Pin_9_9" pintype="passive"/>
+      <node ref="TELEM2" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="TELEM2" pin="MP" pinfunction="Mount_GND_MP" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND_3" pintype="power_in"/>
+      <node ref="U10" pin="6" pinfunction="GND_6" pintype="power_in"/>
+      <node ref="U10" pin="8" pinfunction="GND_8" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="VSS_2" pintype="power_in"/>
+      <node ref="U12" pin="2" pinfunction="GNDA_2" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="GNDA_4" pintype="power_in"/>
+      <node ref="U12" pin="6" pinfunction="GNDIO_6" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND_3" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="GND_7" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="VSS_3" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="SDO_5" pintype="unspecified"/>
+      <node ref="U7" pin="8" pinfunction="VSS_8" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="VSS_9" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U8" pin="9" pinfunction="GND_9" pintype="power_in"/>
+      <node ref="U9" pin="14" pinfunction="VSS_14" pintype="power_in"/>
+      <node ref="U9" pin="2" pinfunction="A1_2" pintype="input"/>
+      <node ref="U9" pin="23" pinfunction="~{OE}_23" pintype="input"/>
+      <node ref="U9" pin="24" pinfunction="A5_24" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="A2_3" pintype="input"/>
+      <node ref="U9" pin="4" pinfunction="A3_4" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="A4_5" pintype="input"/>
+    </net>
+    <net code="14" name="HSE_IN" class="Default">
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="HSE3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="NFCC2" pin="12" pinfunction="PH0_12" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="HSE_OUT" class="Default">
+      <node ref="NFCC2" pin="13" pinfunction="PH1_13" pintype="bidirectional"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="I2C1_SCL" class="Default">
+      <node ref="NFCC2" pin="92" pinfunction="PB6_92" pintype="bidirectional"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="17" name="I2C1_SDA" class="Default">
+      <node ref="NFCC2" pin="93" pinfunction="PB7_93" pintype="bidirectional"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="18" name="I2C2_SCL" class="Default">
+      <node ref="NFCC2" pin="46" pinfunction="PB10_46" pintype="bidirectional"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="SCL/SPC_1" pintype="bidirectional"/>
+      <node ref="U11" pin="1" pinfunction="SCL_1" pintype="unspecified"/>
+      <node ref="U12" pin="8" pinfunction="SCK/SCL_8" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="SCK_2" pintype="unspecified"/>
+    </net>
+    <net code="19" name="I2C2_SDA" class="Default">
+      <node ref="NFCC2" pin="47" pinfunction="PB11_47" pintype="bidirectional"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="SDA/SDI/SDO_4" pintype="bidirectional"/>
+      <node ref="U11" pin="3" pinfunction="SDA_3" pintype="unspecified"/>
+      <node ref="U12" pin="9" pinfunction="SDI/SDA_9" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="SDI_4" pintype="unspecified"/>
+    </net>
+    <net code="20" name="I2C3_SCL" class="Default">
+      <node ref="NFCC2" pin="67" pinfunction="PA8_67" pintype="bidirectional"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U9" pin="26" pinfunction="SCL_26" pintype="input"/>
+    </net>
+    <net code="21" name="I2C3_SDA" class="Default">
+      <node ref="NFCC2" pin="66" pinfunction="PC9_66" pintype="bidirectional"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="U9" pin="27" pinfunction="SDA_27" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="I2C4_SCL" class="Default">
+      <node ref="I2C5" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="NFCC2" pin="59" pinfunction="PD12_59" pintype="bidirectional"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="I2C4_SDA" class="Default">
+      <node ref="I2C5" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+      <node ref="NFCC2" pin="60" pinfunction="PD13_60" pintype="bidirectional"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="LED1" class="Default">
+      <node ref="LED13" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="37" pinfunction="PE7_37" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="LED2" class="Default">
+      <node ref="LED14" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="38" pinfunction="PE8_38" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="LED3" class="Default">
+      <node ref="LED15" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="39" pinfunction="PE9_39" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="LED4" class="Default">
+      <node ref="LED16" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="40" pinfunction="PE10_40" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="LED5" class="Default">
+      <node ref="LED17" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="41" pinfunction="PE11_41" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="LED6" class="Default">
+      <node ref="LED18" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="NFCC2" pin="42" pinfunction="PE12_42" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="NRST" class="Default">
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="NFCC2" pin="14" pinfunction="NRST_14" pintype="input"/>
+      <node ref="SW5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SWD2" pin="10" pinfunction="Pin_10_10" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(C42-Pad1)" class="Default">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="NFCC2" pin="48" pinfunction="VCAP_48" pintype="power_out"/>
+    </net>
+    <net code="32" name="Net-(C43-Pad1)" class="Default">
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="NFCC2" pin="73" pinfunction="VCAP_73" pintype="power_out"/>
+    </net>
+    <net code="33" name="Net-(C54-Pad1)" class="Default">
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="HSE3" pin="3" pinfunction="3_3" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D1-A)" class="Default">
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS_1" pintype="power_out"/>
+      <node ref="JP1" pin="1" pinfunction="A_1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D1-K)" class="Default">
+      <node ref="D1" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D2-A)" class="Default">
+      <node ref="C58" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="VBUS_1" pintype="power_out"/>
+      <node ref="U1" pin="5" pinfunction="VCC_5" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(D2-K)" class="Default">
+      <node ref="D2" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3-K)" class="Default">
+      <node ref="D3" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D4-K)" class="Default">
+      <node ref="D4" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(J1-D+)" class="Default">
+      <node ref="J1" pin="3" pinfunction="D+_3" pintype="bidirectional"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(J1-D-)" class="Default">
+      <node ref="J1" pin="2" pinfunction="D-_2" pintype="bidirectional"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(J1-ID)" class="Default">
+      <node ref="J1" pin="4" pinfunction="ID_4" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J2-D+)" class="Default">
+      <node ref="J2" pin="3" pinfunction="D+_3" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="UD+_1" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="Net-(J2-D-)" class="Default">
+      <node ref="J2" pin="2" pinfunction="D-_2" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="UD-_2" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="Net-(LED13-K)" class="Default">
+      <node ref="LED13" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(LED14-K)" class="Default">
+      <node ref="LED14" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(LED15-K)" class="Default">
+      <node ref="LED15" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(LED16-K)" class="Default">
+      <node ref="LED16" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(LED17-K)" class="Default">
+      <node ref="LED17" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(LED18-K)" class="Default">
+      <node ref="LED18" pin="1" pinfunction="K_1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(SW6-B)" class="Default">
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="B_2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(U1-V3)" class="Default">
+      <node ref="C57" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V3_8" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(U2-BOOT)" class="Default">
+      <node ref="C61" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="BOOT_6" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(U2-EN)" class="Default">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="EN_5" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(U2-FB)" class="Default">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="FB_4" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(U2-SW)" class="Default">
+      <node ref="C61" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="SW_2" pintype="power_out"/>
+    </net>
+    <net code="57" name="Net-(U8-/HOLD(IO3))" class="Default">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="/HOLD(IO3)_7" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Net-(U8-/WP(IO2))" class="Default">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="/WP(IO2)_3" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Net-(U10-C1)" class="Default">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="C1_5" pintype="unspecified"/>
+    </net>
+    <net code="60" name="PWM_0" class="Default">
+      <node ref="PWM_SIG2" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U9" pin="6" pinfunction="LED0_6" pintype="output"/>
+    </net>
+    <net code="61" name="PWM_1" class="Default">
+      <node ref="PWM_SIG2" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="LED1_7" pintype="output"/>
+    </net>
+    <net code="62" name="PWM_2" class="Default">
+      <node ref="PWM_SIG2" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+      <node ref="U9" pin="8" pinfunction="LED2_8" pintype="output"/>
+    </net>
+    <net code="63" name="PWM_3" class="Default">
+      <node ref="PWM_SIG2" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+      <node ref="U9" pin="9" pinfunction="LED3_9" pintype="output"/>
+    </net>
+    <net code="64" name="PWM_4" class="Default">
+      <node ref="PWM_SIG2" pin="5" pinfunction="Pin_5_5" pintype="passive"/>
+      <node ref="U9" pin="10" pinfunction="LED4_10" pintype="output"/>
+    </net>
+    <net code="65" name="PWM_5" class="Default">
+      <node ref="PWM_SIG2" pin="6" pinfunction="Pin_6_6" pintype="passive"/>
+      <node ref="U9" pin="11" pinfunction="LED5_11" pintype="output"/>
+    </net>
+    <net code="66" name="PWM_6" class="Default">
+      <node ref="PWM_SIG2" pin="7" pinfunction="Pin_7_7" pintype="passive"/>
+      <node ref="U9" pin="12" pinfunction="LED6_12" pintype="output"/>
+    </net>
+    <net code="67" name="PWM_7" class="Default">
+      <node ref="PWM_SIG2" pin="8" pinfunction="Pin_8_8" pintype="passive"/>
+      <node ref="U9" pin="13" pinfunction="LED7_13" pintype="output"/>
+    </net>
+    <net code="68" name="SWCLK" class="Default">
+      <node ref="NFCC2" pin="76" pinfunction="PA14_76" pintype="bidirectional"/>
+      <node ref="SWD2" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="69" name="SWDIO" class="Default">
+      <node ref="NFCC2" pin="72" pinfunction="PA13_72" pintype="bidirectional"/>
+      <node ref="SWD2" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+    </net>
+    <net code="70" name="TELEM_RX" class="Default">
+      <node ref="NFCC2" pin="25" pinfunction="PA3_25" pintype="bidirectional"/>
+      <node ref="TELEM2" pin="3" pinfunction="Pin_3_3" pintype="passive"/>
+    </net>
+    <net code="71" name="TELEM_TX" class="Default">
+      <node ref="NFCC2" pin="24" pinfunction="PA2_24" pintype="bidirectional"/>
+      <node ref="TELEM2" pin="4" pinfunction="Pin_4_4" pintype="passive"/>
+    </net>
+    <net code="72" name="USB_DM" class="Default">
+      <node ref="NFCC2" pin="70" pinfunction="PA11_70" pintype="bidirectional"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="73" name="USB_DP" class="Default">
+      <node ref="NFCC2" pin="71" pinfunction="PA12_71" pintype="bidirectional"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="USB_ID" class="Default">
+      <node ref="NFCC2" pin="69" pinfunction="PA10_69" pintype="bidirectional"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="USB_VBUS" class="Default">
+      <node ref="JP1" pin="2" pinfunction="B_2" pintype="passive"/>
+      <node ref="NFCC2" pin="68" pinfunction="PA9_68" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="VBAT" class="Power">
+      <node ref="C60" pin="1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VIN_3" pintype="power_in"/>
+    </net>
+    <net code="77" name="VDDA" class="Default">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C55" pin="1" pintype="passive"/>
+      <node ref="C56" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="I2C5" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="NFCC2" pin="100" pinfunction="VDD_100" pintype="power_in"/>
+      <node ref="NFCC2" pin="11" pinfunction="VDD_11" pintype="power_in"/>
+      <node ref="NFCC2" pin="20" pinfunction="VREF+_20" pintype="input"/>
+      <node ref="NFCC2" pin="21" pinfunction="VDDA_21" pintype="power_in"/>
+      <node ref="NFCC2" pin="27" pinfunction="VDD_27" pintype="power_in"/>
+      <node ref="NFCC2" pin="50" pinfunction="VDD_50" pintype="power_in"/>
+      <node ref="NFCC2" pin="6" pinfunction="VBAT_6" pintype="power_in"/>
+      <node ref="NFCC2" pin="75" pinfunction="VDD_75" pintype="power_in"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="SWD2" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="TELEM2" pin="1" pinfunction="Pin_1_1" pintype="passive"/>
+      <node ref="U10" pin="10" pinfunction="VDD_IO_10" pintype="power_in"/>
+      <node ref="U10" pin="3" pinfunction="CS_3" pintype="input"/>
+      <node ref="U10" pin="9" pinfunction="VDD_9" pintype="power_in"/>
+      <node ref="U11" pin="4" pinfunction="VCC_4" pintype="power_in"/>
+      <node ref="U12" pin="10" pinfunction="SDO2_10" pintype="passive"/>
+      <node ref="U12" pin="11" pinfunction="VDDIO_11" pintype="power_in"/>
+      <node ref="U12" pin="14" pinfunction="~{CSB1}_14" pintype="input"/>
+      <node ref="U12" pin="15" pinfunction="SDO1_15" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="VDD_3" pintype="power_in"/>
+      <node ref="U12" pin="7" pinfunction="PS_7" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="OUT_1" pintype="power_out"/>
+      <node ref="U3" pin="2" pinfunction="ADJ/SENSE_2" pintype="unspecified"/>
+      <node ref="U7" pin="1" pinfunction="VDDIO_1" pintype="power_in"/>
+      <node ref="U7" pin="10" pinfunction="VDD_10" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="CSB_6" pintype="unspecified"/>
+      <node ref="U8" pin="8" pinfunction="VCC_8" pintype="power_in"/>
+      <node ref="U9" pin="1" pinfunction="A0_1" pintype="input"/>
+      <node ref="U9" pin="28" pinfunction="VDD_28" pintype="power_in"/>
+    </net>
+    <net code="78" name="unconnected-(J2-ID-Pad4)" class="Default">
+      <node ref="J2" pin="4" pinfunction="ID_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(NFCC2-PA1-Pad23)" class="Default">
+      <node ref="NFCC2" pin="23" pinfunction="PA1_23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(NFCC2-PA15-Pad77)" class="Default">
+      <node ref="NFCC2" pin="77" pinfunction="PA15_77" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(NFCC2-PB0-Pad34)" class="Default">
+      <node ref="NFCC2" pin="34" pinfunction="PB0_34" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(NFCC2-PB1-Pad35)" class="Default">
+      <node ref="NFCC2" pin="35" pinfunction="PB1_35" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(NFCC2-PB2-Pad36)" class="Default">
+      <node ref="NFCC2" pin="36" pinfunction="PB2_36" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(NFCC2-PB3-Pad89)" class="Default">
+      <node ref="NFCC2" pin="89" pinfunction="PB3_89" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(NFCC2-PB4-Pad90)" class="Default">
+      <node ref="NFCC2" pin="90" pinfunction="PB4_90" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(NFCC2-PB5-Pad91)" class="Default">
+      <node ref="NFCC2" pin="91" pinfunction="PB5_91" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(NFCC2-PB8-Pad95)" class="Default">
+      <node ref="NFCC2" pin="95" pinfunction="PB8_95" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(NFCC2-PB9-Pad96)" class="Default">
+      <node ref="NFCC2" pin="96" pinfunction="PB9_96" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(NFCC2-PB12-Pad51)" class="Default">
+      <node ref="NFCC2" pin="51" pinfunction="PB12_51" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(NFCC2-PB13-Pad52)" class="Default">
+      <node ref="NFCC2" pin="52" pinfunction="PB13_52" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="91" name="unconnected-(NFCC2-PC0-Pad15)" class="Default">
+      <node ref="NFCC2" pin="15" pinfunction="PC0_15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="92" name="unconnected-(NFCC2-PC1-Pad16)" class="Default">
+      <node ref="NFCC2" pin="16" pinfunction="PC1_16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="93" name="unconnected-(NFCC2-PC2_C-Pad17)" class="Default">
+      <node ref="NFCC2" pin="17" pinfunction="PC2_C_17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="94" name="unconnected-(NFCC2-PC3_C-Pad18)" class="Default">
+      <node ref="NFCC2" pin="18" pinfunction="PC3_C_18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="95" name="unconnected-(NFCC2-PC4-Pad32)" class="Default">
+      <node ref="NFCC2" pin="32" pinfunction="PC4_32" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="96" name="unconnected-(NFCC2-PC5-Pad33)" class="Default">
+      <node ref="NFCC2" pin="33" pinfunction="PC5_33" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="97" name="unconnected-(NFCC2-PC6-Pad63)" class="Default">
+      <node ref="NFCC2" pin="63" pinfunction="PC6_63" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="98" name="unconnected-(NFCC2-PC7-Pad64)" class="Default">
+      <node ref="NFCC2" pin="64" pinfunction="PC7_64" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(NFCC2-PC8-Pad65)" class="Default">
+      <node ref="NFCC2" pin="65" pinfunction="PC8_65" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(NFCC2-PC10-Pad78)" class="Default">
+      <node ref="NFCC2" pin="78" pinfunction="PC10_78" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(NFCC2-PC11-Pad79)" class="Default">
+      <node ref="NFCC2" pin="79" pinfunction="PC11_79" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(NFCC2-PC12-Pad80)" class="Default">
+      <node ref="NFCC2" pin="80" pinfunction="PC12_80" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(NFCC2-PC13-Pad7)" class="Default">
+      <node ref="NFCC2" pin="7" pinfunction="PC13_7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(NFCC2-PC14-Pad8)" class="Default">
+      <node ref="NFCC2" pin="8" pinfunction="PC14_8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(NFCC2-PC15-Pad9)" class="Default">
+      <node ref="NFCC2" pin="9" pinfunction="PC15_9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(NFCC2-PD0-Pad81)" class="Default">
+      <node ref="NFCC2" pin="81" pinfunction="PD0_81" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(NFCC2-PD1-Pad82)" class="Default">
+      <node ref="NFCC2" pin="82" pinfunction="PD1_82" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(NFCC2-PD2-Pad83)" class="Default">
+      <node ref="NFCC2" pin="83" pinfunction="PD2_83" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(NFCC2-PD3-Pad84)" class="Default">
+      <node ref="NFCC2" pin="84" pinfunction="PD3_84" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(NFCC2-PD4-Pad85)" class="Default">
+      <node ref="NFCC2" pin="85" pinfunction="PD4_85" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(NFCC2-PD5-Pad86)" class="Default">
+      <node ref="NFCC2" pin="86" pinfunction="PD5_86" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(NFCC2-PD6-Pad87)" class="Default">
+      <node ref="NFCC2" pin="87" pinfunction="PD6_87" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(NFCC2-PD7-Pad88)" class="Default">
+      <node ref="NFCC2" pin="88" pinfunction="PD7_88" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(NFCC2-PD8-Pad55)" class="Default">
+      <node ref="NFCC2" pin="55" pinfunction="PD8_55" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(NFCC2-PD9-Pad56)" class="Default">
+      <node ref="NFCC2" pin="56" pinfunction="PD9_56" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(NFCC2-PD10-Pad57)" class="Default">
+      <node ref="NFCC2" pin="57" pinfunction="PD10_57" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(NFCC2-PD11-Pad58)" class="Default">
+      <node ref="NFCC2" pin="58" pinfunction="PD11_58" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(NFCC2-PD14-Pad61)" class="Default">
+      <node ref="NFCC2" pin="61" pinfunction="PD14_61" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(NFCC2-PD15-Pad62)" class="Default">
+      <node ref="NFCC2" pin="62" pinfunction="PD15_62" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(NFCC2-PE0-Pad97)" class="Default">
+      <node ref="NFCC2" pin="97" pinfunction="PE0_97" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(NFCC2-PE1-Pad98)" class="Default">
+      <node ref="NFCC2" pin="98" pinfunction="PE1_98" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(NFCC2-PE2-Pad1)" class="Default">
+      <node ref="NFCC2" pin="1" pinfunction="PE2_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(NFCC2-PE3-Pad2)" class="Default">
+      <node ref="NFCC2" pin="2" pinfunction="PE3_2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(NFCC2-PE4-Pad3)" class="Default">
+      <node ref="NFCC2" pin="3" pinfunction="PE4_3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(NFCC2-PE5-Pad4)" class="Default">
+      <node ref="NFCC2" pin="4" pinfunction="PE5_4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(NFCC2-PE6-Pad5)" class="Default">
+      <node ref="NFCC2" pin="5" pinfunction="PE6_5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(SWD2-Pin_6-Pad6)" class="Default">
+      <node ref="SWD2" pin="6" pinfunction="Pin_6_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(SWD2-Pin_7-Pad7)" class="Default">
+      <node ref="SWD2" pin="7" pinfunction="Pin_7_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(SWD2-Pin_8-Pad8)" class="Default">
+      <node ref="SWD2" pin="8" pinfunction="Pin_8_8" pintype="passive+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U1-~{RTS}-Pad4)" class="Default">
+      <node ref="U1" pin="4" pinfunction="~{RTS}_4" pintype="output+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U3-PG-Pad4)" class="Default">
+      <node ref="U3" pin="4" pinfunction="PG_4" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U9-EXTCLK-Pad25)" class="Default">
+      <node ref="U9" pin="25" pinfunction="EXTCLK_25" pintype="input+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U9-LED8-Pad15)" class="Default">
+      <node ref="U9" pin="15" pinfunction="LED8_15" pintype="output+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U9-LED9-Pad16)" class="Default">
+      <node ref="U9" pin="16" pinfunction="LED9_16" pintype="output+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U9-LED10-Pad17)" class="Default">
+      <node ref="U9" pin="17" pinfunction="LED10_17" pintype="output+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U9-LED11-Pad18)" class="Default">
+      <node ref="U9" pin="18" pinfunction="LED11_18" pintype="output+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(U9-LED12-Pad19)" class="Default">
+      <node ref="U9" pin="19" pinfunction="LED12_19" pintype="output+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(U9-LED13-Pad20)" class="Default">
+      <node ref="U9" pin="20" pinfunction="LED13_20" pintype="output+no_connect"/>
+    </net>
+    <net code="139" name="unconnected-(U9-LED14-Pad21)" class="Default">
+      <node ref="U9" pin="21" pinfunction="LED14_21" pintype="output+no_connect"/>
+    </net>
+    <net code="140" name="unconnected-(U9-LED15-Pad22)" class="Default">
+      <node ref="U9" pin="22" pinfunction="LED15_22" pintype="output+no_connect"/>
+    </net>
+    <net code="141" name="unconnected-(U10-INT/DRDY-Pad7)" class="Default">
+      <node ref="U10" pin="7" pinfunction="INT/DRDY_7" pintype="output+no_connect"/>
+    </net>
+    <net code="142" name="unconnected-(U10-NC-Pad2)" class="Default">
+      <node ref="U10" pin="2" pinfunction="NC_2" pintype="no_connect"/>
+    </net>
+    <net code="143" name="unconnected-(U10-NC-Pad11)" class="Default">
+      <node ref="U10" pin="11" pinfunction="NC_11" pintype="no_connect"/>
+    </net>
+    <net code="144" name="unconnected-(U10-NC-Pad12)" class="Default">
+      <node ref="U10" pin="12" pinfunction="NC_12" pintype="no_connect"/>
+    </net>
+    <net code="145" name="unconnected-(U11-NC-Pad5)" class="Default">
+      <node ref="U11" pin="5" pinfunction="NC_5" pintype="no_connect"/>
+    </net>
+    <net code="146" name="unconnected-(U12-INT2-Pad1)" class="Default">
+      <node ref="U12" pin="1" pinfunction="INT2_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="147" name="unconnected-(U12-INT4-Pad13)" class="Default">
+      <node ref="U12" pin="13" pinfunction="INT4_13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="148" name="unconnected-(U12-~{CSB2}-Pad5)" class="Default">
+      <node ref="U12" pin="5" pinfunction="~{CSB2}_5" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
