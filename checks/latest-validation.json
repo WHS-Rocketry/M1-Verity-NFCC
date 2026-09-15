@@ -1,11 +1,23 @@
 {
   "sha256": {
-    "NFCC.kicad_pcb": "09aa9e0d9dfa94ab34151ab3b1c89d7e9171d479c096f49c16c5d0e2622cd2d1",
+    "NFCC.kicad_pcb": "3fafe074b4bc40329cb75b3f7e6c7c1eb25d2fcc68375ef0981f1c2f35b843d2",
     "NFCC.kicad_pro": "4f572f2a9ad13138f06a207bc3c3e3e99e09ce53eb8118f5aa6a896e485b1a20",
     "NFCC.kicad_dru": "d26cdee8d821fe56a4ffe28e94eb3f78c7708aa43c354e17171654a358c6d9e1",
     "NFCC.kicad_sch": "afad90fb886a120dc20b3aaf0b01d0def70df17e8945b2910113bf138f86a8fe"
   },
   "pwm_row_pitch_mm": 2.54,
+  "connector_centres_mm": {
+    "TELEM2": [
+      63.5,
+      90.9
+    ],
+    "I2C5": [
+      63.5,
+      103.1
+    ]
+  },
+  "connector_centre_spacing_mm": 12.2,
+  "pad_net_mapping_unchanged": true,
   "production_ready": false,
   "drc": {
     "violations": 0,

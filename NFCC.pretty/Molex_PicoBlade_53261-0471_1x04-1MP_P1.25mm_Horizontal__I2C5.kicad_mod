@@ -6,9 +6,9 @@
 	(descr "Molex PicoBlade series connector, 53261-0471 (http://www.molex.com/pdm_docs/sd/532610271_sd.pdf)")
 	(tags "connector Molex PicoBlade horizontal")
 	(property "Reference" "I2C5"
-		(at 0 -5.225 270)
+		(at 0 -7 90)
 		(layer "F.SilkS")
-		(uuid "fadc34ca-b48b-4eea-8af8-be3c3038c60d")
+		(uuid "50de7ebc-a804-4763-9d53-9bdd8ad65823")
 		(effects
 			(font
 				(size 1 1)
@@ -17,10 +17,10 @@
 		)
 	)
 	(property "Value" "53261-0471"
-		(at 0 3.8 0)
+		(at 0 3.8 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b884e132-6e62-4bad-ac71-252468f62c36")
+		(uuid "67206ccc-4da3-4c33-84a1-6cd9f387d735")
 		(effects
 			(font
 				(size 1 1)
@@ -29,10 +29,10 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at 0 0 0)
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a6de03e3-82c7-4d5c-8bb0-745af593c2a9")
+		(uuid "81e1c7c8-9be7-4fdf-a316-e33190a1d42a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,10 +40,10 @@
 		)
 	)
 	(property "Description" "Molex PicoBlade 4-way; mounting tabs connected to ground pin 2"
-		(at 0 0 0)
+		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b061f85f-5241-42e5-a552-95111a797651")
+		(uuid "0e5f2d38-ffad-48d1-9a78-a898a80d73c5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -51,7 +51,7 @@
 		)
 	)
 	(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
-		(at 0 0 0)
+		(at 0 0 180)
 		(layer "F.SilkS")
 		(hide yes)
 		(uuid "b98de418-d9bd-4cea-8a6f-f2dc1b037742")
@@ -525,7 +525,7 @@
 		(uuid "9c985df7-e245-4673-ab9b-2b8171fcbfbd")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 1.9 0)
+		(at 0 1.9 180)
 		(layer "F.Fab")
 		(uuid "b0aeac8f-78fc-4ca4-a641-994834a51ed4")
 		(effects
