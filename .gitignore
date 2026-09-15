@@ -1,0 +1,10 @@
+
+# Local editor and Python runtime files
+.DS_Store
+*.kicad_prl
+~*.lck
+__pycache__/
+*.pyc
+.history/
+*-backups/
+_autosave-*

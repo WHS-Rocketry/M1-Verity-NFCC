@@ -1,0 +1,236 @@
+(footprint "L_Bourns_SRN6045TA__L1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf")
+	(tags "Semi-shielded Power Inductor")
+	(property "Reference" "L1"
+		(at 0 -4.175 180)
+		(layer "F.SilkS")
+		(uuid "df4584e2-38fb-46da-9891-146c9a667a0d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "4.7u"
+		(at 0 4.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "381077da-1b75-4cc7-8f46-78f2b1655243")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7b1bd8c-f014-42f2-859c-29276cd27801")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce7b6556-8746-48ae-8359-dc9bc13662de")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "NFCC")
+	(sheetfile "NFCC.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.1 -3.1)
+		(end 3.1 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d9c58027-9bad-4bea-8bda-3a82f10aa12b")
+	)
+	(fp_line
+		(start 3.1 3.1)
+		(end -3.1 3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "109b3c5b-90e5-4bf3-a1d5-1def9c3b17c8")
+	)
+	(fp_line
+		(start -3.5 -3.25)
+		(end -3.5 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea352994-ef1d-4e76-9551-20fe7cd85e8b")
+	)
+	(fp_line
+		(start -3.5 3.25)
+		(end 3.5 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c2fb226-764e-42d9-a76f-099dfde6bc53")
+	)
+	(fp_line
+		(start 3.5 -3.25)
+		(end -3.5 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d641d5bc-73b2-4b8c-aca5-430684af1fdc")
+	)
+	(fp_line
+		(start 3.5 3.25)
+		(end 3.5 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0fea3030-3f63-4cb3-8895-197a13c99d05")
+	)
+	(fp_line
+		(start -3.1 -3.1)
+		(end -3.1 -2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b4ed6846-4f68-4f80-9c39-71635718fc0e")
+	)
+	(fp_line
+		(start -3.1 3.1)
+		(end -3.1 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "717b2b41-ce40-4770-8356-fcfa89a95814")
+	)
+	(fp_line
+		(start -3 -3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2546ac8f-6baa-40a8-bc0a-9dc869554ed6")
+	)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df892f4a-4857-4a3d-94a7-5067b9a949fc")
+	)
+	(fp_line
+		(start -3 3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bd582483-0396-459f-819e-b50ecdd1e89b")
+	)
+	(fp_line
+		(start 3 3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f3c2573a-d13e-48c5-84c1-bc4364d56206")
+	)
+	(fp_line
+		(start 3.1 -3.1)
+		(end 3.1 -2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be2fd379-8243-4d97-9669-5aab84b48fd9")
+	)
+	(fp_line
+		(start 3.1 3.1)
+		(end 3.1 2.65)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c7bf606f-4107-475f-b911-e5678ec25ea9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "1789ba81-227d-490d-915e-29c4eef236b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.075 0)
+		(size 2.35 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "133b269b-be94-43db-a0f7-123aad14ef63")
+	)
+	(pad "2" smd rect
+		(at 2.075 0)
+		(size 2.35 5.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1d42b31e-e7e4-4bf5-b15d-7b62cde736d3")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
